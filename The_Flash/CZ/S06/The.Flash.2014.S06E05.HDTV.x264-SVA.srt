@@ -1,0 +1,2298 @@
+﻿1
+00:00:00,000 --> 00:00:02,911
+<i>- V minulých dílech jste viděli...</i>
+- Mimochodem, já jsem Cisco.
+
+2
+00:00:02,933 --> 00:00:05,400
+ty musíš být Gypsy.
+Těší mě. Kdo jste?
+
+3
+00:00:05,420 --> 00:00:09,577
+- Tati? <i>- Jsi bojovník, který by bojoval,
+aby ochránil jedinou osobu, kterou miluji.</i>
+
+4
+00:00:09,644 --> 00:00:11,288
+<i>Chci si vzít ten lék.</i>
+
+5
+00:00:11,382 --> 00:00:14,817
+Chci, abys to byl ty, kdo bude
+v čele našeho týmu, až tu nebudu.
+
+6
+00:00:14,911 --> 00:00:18,622
+Promiň mi ty ledové dýky.
+Ale stejně tě nemám ráda.
+
+7
+00:00:18,688 --> 00:00:21,711
+- Nedělej to, Ramsey.
+<i>- Dokud se budu krmit,</i>
+
+8
+00:00:21,733 --> 00:00:23,800
+<i>tak mohu žít věčně.</i>
+
+9
+00:00:29,422 --> 00:00:32,022
+Takže tady ses zašil.
+
+10
+00:00:34,400 --> 00:00:39,000
+Někdy je pravda
+tou nejneprůhlednější lží.
+
+11
+00:00:39,488 --> 00:00:42,244
+Pokud se člověk nemůže
+spolehnout na pravdu,
+
+12
+00:00:42,644 --> 00:00:46,911
+tak se věcí musí chopit sám.
+
+13
+00:00:47,977 --> 00:00:50,155
+Jste zatčen, Ramone.
+
+14
+00:00:58,880 --> 00:01:01,644
+<i>edna.cz/the-flash
+přeložili joyeux a Xavik</i>
+
+15
+00:01:02,155 --> 00:01:04,311
+- PŘED 12 HODINAMI
+<i>- Tohle není nutné, Barry.</i>
+
+16
+00:01:04,350 --> 00:01:08,311
+- Čeká nás Tahiti, ne Iron Heights.
+- Já vím, ale teď toho máme tolik,
+
+17
+00:01:08,355 --> 00:01:10,911
+že bychom neměli
+být na dovolené.
+
+18
+00:01:10,933 --> 00:01:15,711
+Budeme tam jen dva dny. Ramsey
+se nikde neobjevil už dva týdny.
+
+19
+00:01:15,755 --> 00:01:18,977
+A krize se blíží,
+ať už se bude dít cokoliv.
+
+20
+00:01:19,133 --> 00:01:23,555
+Chci, abychom byli na místě, kde si
+můžeme dát drinky s malými deštníčky
+
+21
+00:01:23,577 --> 00:01:28,066
+- a mít písek mezi prsty.
+- Naše společné chvíle mám ráda.
+
+22
+00:01:29,244 --> 00:01:31,577
+A s koktejly je to ještě lepší.
+
+23
+00:01:32,066 --> 00:01:34,222
+Otevři knihu a bude to v suchu.
+
+24
+00:01:36,000 --> 00:01:39,177
+- Myslel jsem, že už jste pryč.
+- Jen jsem se chtěl ujistit,
+
+25
+00:01:39,220 --> 00:01:41,488
+že to tu zvládnete,
+zatímco my budeme pryč.
+
+26
+00:01:41,500 --> 00:01:45,244
+Všechno dobrý, buďte v klidu.
+Vůdce týmu je moje nové druhé jméno.
+
+27
+00:01:45,280 --> 00:01:47,111
+- A které jsi měl předtím?
+- Baracus.
+
+28
+00:01:47,140 --> 00:01:51,755
+- Myslíš čtvrť Barracas v Buenos Aires?
+- Ne, myslím Mr. T.
+
+29
+00:01:51,866 --> 00:01:54,911
+- Moje máti měla ráda <i>A-Team</i>.
+- Kéž by ho měla ráda i ta moje.
+
+30
+00:01:54,970 --> 00:01:59,311
+- Mohl jsem být Hannibal Dibny.
+- Hannibal? - Ty seš spíš Murdock.
+
+31
+00:01:59,333 --> 00:02:03,844
+Užijte si dovolenou.
+Mně tu zatím bude pomáhat Barry.
+
+32
+00:02:03,890 --> 00:02:07,466
+- Barry? To mluvíš o mně?
+- Ne o tobě, Barry,
+
+33
+00:02:07,511 --> 00:02:11,533
+ale o BARIm, reduplikované
+inteligenci Barryho Allena.
+
+34
+00:02:12,844 --> 00:02:15,800
+- Můj rozhodovací algoritmus.
+- Takže když se něco stane,
+
+35
+00:02:15,860 --> 00:02:18,933
+- tak nám poví, co dělat?
+- Přesně. Rozhoduje se na základě
+
+36
+00:02:18,977 --> 00:02:22,777
+jeho dřívějších rozhodnutí,
+takže se v každé situaci rozhodne tak,
+
+37
+00:02:22,866 --> 00:02:26,711
+- jak by se rozhodl i Barry.
+- Asi jsem polichocen.
+
+38
+00:02:27,244 --> 00:02:31,044
+Kterou snídani má
+Barry ode mě nejraději?
+
+39
+00:02:32,177 --> 00:02:34,244
+Banán?
+
+40
+00:02:35,444 --> 00:02:37,511
+<i>Banán.</i>
+
+41
+00:02:37,688 --> 00:02:40,133
+- Ptejte se dál.
+- Tak jo, počítači,
+
+42
+00:02:40,177 --> 00:02:43,066
+- který film má Barry nejraději?
+- <i>Impérium vrací úder</i>.
+
+43
+00:02:45,688 --> 00:02:48,733
+<i>- Jurský park.</i>
+- Ještě že tak.
+
+44
+00:02:50,733 --> 00:02:54,330
+<i>Impérium vrací úder</i>
+zbožňuju celý život,
+
+45
+00:02:55,000 --> 00:02:57,222
+ale když tak nad tím přemýšlím...
+
+46
+00:02:57,355 --> 00:03:00,711
+Panebože, opravdu mám
+nejraději <i>Jurský park</i>.
+
+47
+00:03:00,777 --> 00:03:05,622
+- A je to. - Jak to ví?
+- Fuzzy logika a umělá intuice.
+
+48
+00:03:05,666 --> 00:03:09,066
+Když tu budu mít BARIho,
+tak to bude, jako bys tu byl ty sám.
+
+49
+00:03:10,177 --> 00:03:13,177
+No nic, asi bychom měli vyrazit.
+
+50
+00:03:13,230 --> 00:03:15,777
+- Jo, to bychom měli.
+- Pošlete mi pohlednici.
+
+51
+00:03:15,800 --> 00:03:21,022
+- Nezapomeň, přenechávám to tu tobě.
+- Uvidíme se za pár dní.
+
+52
+00:03:21,711 --> 00:03:23,666
+Čau.
+
+53
+00:03:25,155 --> 00:03:28,022
+Nějaký rozkazy, šéfíku?
+
+54
+00:03:28,977 --> 00:03:31,333
+BARI chce, abych tu zůstal,
+
+55
+00:03:31,510 --> 00:03:35,133
+zatímco ty a Frostová máte
+hlídat Ramseyho laborku.
+
+56
+00:03:35,600 --> 00:03:37,911
+Miluju, když plán klapne.
+
+57
+00:03:48,933 --> 00:03:52,866
+Jen abys věděl,
+dovolil jsem ti mě sem následovat.
+
+58
+00:03:53,377 --> 00:03:55,511
+Klidně si to mysli.
+
+59
+00:03:58,777 --> 00:04:01,488
+Kapitán Joe West, místní policie.
+
+60
+00:04:01,511 --> 00:04:04,288
+Takže co tě sem přivádí?
+
+61
+00:04:04,333 --> 00:04:08,288
+Lidé s tvojí tváří mají
+tendenci něco skrývat,
+
+62
+00:04:08,311 --> 00:04:12,777
+a proto, když mi můj syn
+Barry řekl, že tu je nový Wells,
+
+63
+00:04:12,822 --> 00:04:16,533
+- jsem se na tebe zaměřil.
+- Nevím, jak nový jsem pro tebe,
+
+64
+00:04:16,555 --> 00:04:19,400
+ale tím zaměřením myslíš to,
+jak jsi mě špehoval
+
+65
+00:04:19,466 --> 00:04:22,555
+- z toho sedanu zaparkovaného
+na Lake Avenue? - Jsi všímavý.
+
+66
+00:04:22,666 --> 00:04:27,466
+Proč děláš díry do našeho města?
+
+67
+00:04:29,240 --> 00:04:34,044
+Pane naprostý cizinče,
+díry pod vaším městem tu dělám...
+
+68
+00:04:34,088 --> 00:04:36,711
+Počkat, to bys nikdy nepochopil.
+
+69
+00:04:36,733 --> 00:04:38,600
+- Jen to zkus.
+- Ne.
+
+70
+00:04:38,666 --> 00:04:41,060
+Ne, ne, ne!
+
+71
+00:04:48,844 --> 00:04:53,266
+Potřebuješ se prospat, kvůli práci
+jsi toho v poslední době moc nenaspal.
+
+72
+00:04:53,288 --> 00:04:55,711
+Dnes se vyspím do růžova,
+
+73
+00:04:55,755 --> 00:05:01,111
+protože mám svého BARIho,
+bílý šum a zlatíčko.
+
+74
+00:05:03,644 --> 00:05:05,733
+Dobrou noc.
+
+75
+00:05:21,066 --> 00:05:24,266
+- Jsi v pořádku?
+- Ne, to ani ne.
+
+76
+00:05:24,355 --> 00:05:27,488
+Právě jsem si tu hrál
+na Sweeneyho Todda.
+
+77
+00:05:29,777 --> 00:05:33,466
+Proč bych to dělal?
+Jsem snad náměsíčný?
+
+78
+00:05:33,555 --> 00:05:36,755
+Jo, to ty teď děláš.
+
+79
+00:05:37,488 --> 00:05:39,955
+Vzbudil jsi mě i včera večer.
+
+80
+00:05:40,040 --> 00:05:44,355
+Bouchl jsi předními dveřmi a stál jsi
+u nich s klíči a nazutými botami.
+
+81
+00:05:44,370 --> 00:05:47,244
+Byla jsem rozespalá,
+tak jsem tě jen dovedla do postele.
+
+82
+00:05:47,311 --> 00:05:49,933
+- Proč jsi mi o tom neřekla?
+- Myslela jsem, že o nic nejde.
+
+83
+00:05:49,970 --> 00:05:52,644
+Takové věci jsou normální,
+když je člověk vyčerpaný.
+
+84
+00:05:52,650 --> 00:05:57,533
+Ale ono se něco musí dít,
+když jsem byl náměsíčný už dvakrát, ne?
+
+85
+00:05:57,577 --> 00:06:00,777
+Klid, zlato.
+Až dnes jsi rozjel BARIho.
+
+86
+00:06:00,933 --> 00:06:03,866
+Musíš svému žhavému mozku
+dopřát trochu odpočinku.
+
+87
+00:06:04,000 --> 00:06:07,955
+Můj mozek je Ryan Gosling
+mezi ostatními mozky. No dobře.
+
+88
+00:06:08,288 --> 00:06:11,222
+- Příště mi o tom prosím pověz.
+- Dobře.
+
+89
+00:06:11,288 --> 00:06:13,622
+A dej ty nůžky pryč ode mě.
+
+90
+00:06:14,444 --> 00:06:17,266
+- Dobrou, zlato.
+- Dobrou noc.
+
+91
+00:06:17,570 --> 00:06:23,133
+Miluju... Těším se na to,
+
+92
+00:06:23,333 --> 00:06:25,733
+až spolu zítra strávíme čas.
+
+93
+00:06:28,222 --> 00:06:30,377
+Děkuju.
+
+94
+00:06:32,977 --> 00:06:35,000
+Nemáš zač.
+
+95
+00:06:38,533 --> 00:06:40,977
+Tak jo, dobrou.
+
+96
+00:06:48,088 --> 00:06:50,044
+Panebože.
+
+97
+00:07:01,355 --> 00:07:05,844
+To nic, toho já znám.
+Je to otec mé bejvalky.
+
+98
+00:07:06,422 --> 00:07:10,688
+Zdravím, Breachere.
+Dlouho jste se mě nepokusil zabít.
+
+99
+00:07:10,955 --> 00:07:15,177
+Co vás zase přivádí do mé ložnice?
+
+100
+00:07:18,755 --> 00:07:20,866
+Breachere?
+
+101
+00:07:25,355 --> 00:07:27,488
+Joshi.
+
+102
+00:07:29,577 --> 00:07:31,688
+Jde o Cynthii.
+
+103
+00:07:32,688 --> 00:07:34,844
+Je mrtvá.
+
+104
+00:07:43,333 --> 00:07:45,488
+Nemohu uvěřit tomu, že zemřela.
+
+105
+00:07:46,666 --> 00:07:49,133
+Že už ji nikdy neuvidím.
+
+106
+00:07:49,355 --> 00:07:53,622
+Cynthia šla po špičkovém hackerovi.
+
+107
+00:07:54,288 --> 00:07:58,377
+Říká si Echo.
+
+108
+00:07:58,511 --> 00:08:00,888
+O něm mi už říkala.
+
+109
+00:08:01,020 --> 00:08:03,733
+Nikdo nikdy nepřišel na to,
+co je skutečně zač, že?
+
+110
+00:08:03,800 --> 00:08:08,533
+Cynthia na to asi přišla,
+ale netušíme, jak ji přemohl.
+
+111
+00:08:08,933 --> 00:08:11,600
+Nikdy jsem neviděl,
+že by něco prohrála.
+
+112
+00:08:12,933 --> 00:08:16,600
+Však ona neprohrála.
+Ve chvíli, kdy tu zemřela,
+
+113
+00:08:17,244 --> 00:08:20,288
+se aktivovala její sběratelská QČ síť.
+
+114
+00:08:20,511 --> 00:08:23,222
+Myslíte quaročasovou bariéru?
+
+115
+00:08:24,150 --> 00:08:26,177
+Gypsy mi jednou řekla,
+že tyto bariéry
+
+116
+00:08:26,220 --> 00:08:29,111
+jsou něco jako supervelká
+vibrační pole kolem planet.
+
+117
+00:08:29,150 --> 00:08:32,555
+Sběratelé je spouští, aby se
+podezřelí nedostali do jiného světa.
+
+118
+00:08:32,600 --> 00:08:37,680
+- A jen náš úřad je může vypnout.
+- To znamená, že vrah tu pořád je.
+
+119
+00:08:37,822 --> 00:08:40,688
+Cynthia se dočká své odplaty.
+
+120
+00:08:42,111 --> 00:08:44,511
+A Vibe mi s tím pomůže.
+
+121
+00:08:47,622 --> 00:08:49,844
+Cisco už není Vibe.
+
+122
+00:08:50,000 --> 00:08:55,222
+- Rozhodl se vzít si metalék.
+- Copak ses nebál trhlinové psychózy?
+
+123
+00:08:55,555 --> 00:08:59,822
+K ní někdy dochází ve chvíli,
+kdy člověk potlačí své schopnosti.
+
+124
+00:09:00,222 --> 00:09:04,022
+- Je to dost nebezpečné.
+- Jak moc?
+
+125
+00:09:05,266 --> 00:09:09,377
+Halucinace,
+podivné výpadky paměti,
+
+126
+00:09:09,488 --> 00:09:12,288
+- sucho v puse.
+- Moje schopnosti nebyly potlačeny.
+
+127
+00:09:12,333 --> 00:09:16,644
+- Jsou pryč. - Cisco vám může
+pomoci i bez svých schopností.
+
+128
+00:09:16,777 --> 00:09:18,933
+Je to génius.
+
+129
+00:09:23,955 --> 00:09:26,177
+Co by udělal Barry?
+
+130
+00:09:31,400 --> 00:09:34,511
+BARI chce, abychom se šli
+podívat na místo činu.
+
+131
+00:09:36,755 --> 00:09:39,822
+Klidně tam nemusíte jít.
+Půjdu tam sám.
+
+132
+00:09:40,311 --> 00:09:42,444
+Půjdu s tebou.
+
+133
+00:09:43,755 --> 00:09:46,244
+Tohle může být nebezpečné, Kamillo.
+
+134
+00:09:46,333 --> 00:09:50,355
+Přeci jen se tu vypořádáváme
+s vrahem. O to tě nemohu žádat.
+
+135
+00:09:50,422 --> 00:09:53,711
+Však jsi mě o nic nežádal,
+sama jsem se nabídla.
+
+136
+00:09:59,866 --> 00:10:02,355
+Věděl jsem,
+že ty bys mě nezklamal.
+
+137
+00:10:18,600 --> 00:10:20,755
+Tak jo.
+
+138
+00:10:27,020 --> 00:10:29,933
+Mávej si tu s tím, jak chceš.
+Tady bys nechytil signál,
+
+139
+00:10:29,970 --> 00:10:32,933
+- i kdyby to tu nebylo zavaleno.
+- Třeba tu něco chytnu.
+
+140
+00:10:32,950 --> 00:10:37,422
+- Na rozdíl od tebe aspoň něco dělám.
+- Ale já se nás odsud snažím dostat, blbče.
+
+141
+00:10:37,511 --> 00:10:40,866
+- Já mám ale tým, který nás
+odsud může dostat. - Jak?
+
+142
+00:10:40,910 --> 00:10:44,488
+- Jak nám pomohou? Nikdo neví,
+že tu jsme. - Jsem policejní kapitán.
+
+143
+00:10:44,511 --> 00:10:48,933
+Mám tucty poldů a další lidi,
+kteří na mě neustále spoléhají.
+
+144
+00:10:48,977 --> 00:10:51,777
+Za několik hodin
+mě začnou hledat.
+
+145
+00:10:51,844 --> 00:10:53,977
+No jo, někdo tu
+má velké sebevědomí.
+
+146
+00:10:54,022 --> 00:10:57,444
+Ale víš, co nemáš?
+Funkční telefon, wifi,
+
+147
+00:10:57,488 --> 00:11:00,888
+- prostě nic, díky čemu bys...
+- Co to děláš? - Všem řekl, že tu jsme.
+
+148
+00:11:00,977 --> 00:11:03,577
+- Odlož to.
+- Tohle je naše jediná možnost.
+
+149
+00:11:03,644 --> 00:11:06,355
+- Dostanu nás odsud.
+- Co to děláš?
+
+150
+00:11:14,822 --> 00:11:19,088
+= Hráblo ti snad?
+- Proč jsi mi neřekl,
+
+151
+00:11:19,155 --> 00:11:22,755
+že se vibrační frekvence této Země
+měří na molekulární úrovni?
+
+152
+00:11:22,800 --> 00:11:24,577
+To ty bys měl tohle vědět!
+
+153
+00:11:24,644 --> 00:11:27,311
+Ještě jednou na mě
+takhle zasyč a uvidíš!
+
+154
+00:11:27,370 --> 00:11:32,177
+Máme tu jeden problém.
+Ta ohnivá koule odebrala 80...
+
+155
+00:11:33,577 --> 00:11:38,111
+87 % kyslíku z tohoto místa,
+což znamená, že nám zbývá
+
+156
+00:11:38,288 --> 00:11:41,755
+42 minut života.
+
+157
+00:11:56,400 --> 00:12:00,130
+Domluvili jsme se tak, že mi
+zavoláš předtím, než začne vraždit.
+
+158
+00:12:00,177 --> 00:12:02,822
+Objevil se tu jak pára nad hrncem.
+
+159
+00:12:02,955 --> 00:12:07,400
+Rat a Pops mu chtěli utýct,
+ale moc daleko se nedostali.
+
+160
+00:12:07,666 --> 00:12:11,711
+Tenhle maník je pěkně
+zvrácenej, Frostová.
+
+161
+00:12:11,755 --> 00:12:14,711
+Být tebou, nehledám ho.
+
+162
+00:12:14,888 --> 00:12:19,622
+Dobrá rada.
+Obzvláště, pokud nemá parťáka.
+
+163
+00:12:20,755 --> 00:12:23,022
+Jak ti dupou králíci, Haďáku?
+
+164
+00:12:23,711 --> 00:12:25,933
+Moc nedupou.
+
+165
+00:12:26,155 --> 00:12:29,711
+Dal bys nám chvilku? Chtěl bych
+si promluvit tady se Sněhulkou.
+
+166
+00:12:35,130 --> 00:12:38,000
+- Co tady děláš?
+- Hledal jsem tě.
+
+167
+00:12:38,066 --> 00:12:41,640
+- Měla jsi hlídat Ramseyho laborku.
+- Norvock mi napsal, že tu je Ramsey.
+
+168
+00:12:41,710 --> 00:12:44,822
+Jakožto tvůj zaučovatel ti říkám,
+že brzy přijdu o práci,
+
+169
+00:12:44,888 --> 00:12:47,266
+- když po něm půjdeš sama.
+- Vtipy stranou.
+
+170
+00:12:47,311 --> 00:12:50,555
+Tohle je boj, můj boj,
+takže se do toho nepleť.
+
+171
+00:12:50,644 --> 00:12:53,688
+Jsme tým.
+Tvoje boje jsou i moje.
+
+172
+00:12:53,755 --> 00:12:56,888
+Co kdybys toho
+teda nechala a věřila mi?
+
+173
+00:12:56,933 --> 00:12:59,822
+Hned jsem věděla,
+že mu nemáme věřit.
+
+174
+00:12:59,844 --> 00:13:02,888
+Ale my mu věřili.
+A on teď zabíjí lidi.
+
+175
+00:13:02,955 --> 00:13:07,000
+- Takže to musím napravit.
+- Ještě nedávno jsem se cítil stejně.
+
+176
+00:13:07,090 --> 00:13:09,755
+Házel jsem vinu na sebe
+a nechtěl jsem ničí pomoc.
+
+177
+00:13:09,800 --> 00:13:14,600
+A k čemu to bylo?
+Jen jsem se litoval a opíjel.
+
+178
+00:13:14,700 --> 00:13:19,666
+Život je lepší, když máš víru
+v lidi kolem sebe. To mi věř.
+
+179
+00:13:24,022 --> 00:13:26,155
+Co je?
+
+180
+00:13:26,466 --> 00:13:28,755
+Vím, v koho má víru Ramsey.
+
+181
+00:13:29,511 --> 00:13:31,600
+Musím jít.
+
+182
+00:13:31,666 --> 00:13:34,400
+Copak jsi mě neposlouchala?
+Nemůžeš na něj jít sama.
+
+183
+00:13:34,511 --> 00:13:38,733
+Vím, co dělám.
+A neboj, nebudu sama.
+
+184
+00:13:49,933 --> 00:13:54,088
+Kamillo, je tu něco,
+co bych ti chtěl říct.
+
+185
+00:13:54,222 --> 00:13:57,444
+Pořád jsem přemýšlel
+nad tím, jak ti to povím...
+
+186
+00:13:57,844 --> 00:14:01,288
+Já nevím,
+prostě to ze sebe vyklopím.
+
+187
+00:14:01,866 --> 00:14:04,555
+- Kamillo...
+- No ty krávo.
+
+188
+00:14:11,466 --> 00:14:14,733
+A to jsem myslela,
+že naši policajti jsou důkladní.
+
+189
+00:14:15,022 --> 00:14:20,911
+Jo, sběratelé ze Země 19 přistupují
+k místům činu mnohem důkladněji.
+
+190
+00:14:21,488 --> 00:14:23,800
+Já jsem agent Zak Zeal.
+
+191
+00:14:23,955 --> 00:14:26,644
+Vy jste Kamilla Hwangová
+a Cisco Ramon.
+
+192
+00:14:26,733 --> 00:14:28,866
+Jo, čekal jsem vás.
+
+193
+00:14:29,244 --> 00:14:33,711
+Myslel jsem, že jste větší.
+Gypsy vás popisovala jinak.
+
+194
+00:14:33,755 --> 00:14:37,311
+Víte, co je zvláštní?
+O vás se mi nikdy nezmínila.
+
+195
+00:14:39,800 --> 00:14:43,644
+Dohlédni na to, aby Walker
+aktualizoval dimenzionální hlášení.
+
+196
+00:14:44,355 --> 00:14:47,888
+Díky. Když je má člověk vést,
+tak je musí pořád zaměstnávat.
+
+197
+00:14:47,933 --> 00:14:50,866
+Breacher by mi rozuměl.
+Kde vůbec je?
+
+198
+00:14:50,933 --> 00:14:54,111
+Už tu viděl vše, co potřeboval.
+My jsme tu místo něj.
+
+199
+00:14:54,177 --> 00:14:59,733
+Úřad povolil vaši účast na vyšetřování,
+takže vás asi prostě pustím.
+
+200
+00:15:00,088 --> 00:15:02,355
+Byl stanoven čas úmrtí?
+
+201
+00:15:03,110 --> 00:15:07,222
+Kvůli mnohodimenzionální
+rychlosti přenosu odhadujeme,
+
+202
+00:15:07,288 --> 00:15:09,755
+že k tomu došlo
+někdy mezi 2:30 a 4:30 ráno.
+
+203
+00:15:09,822 --> 00:15:13,711
+- To je pěkně dobrý odhad.
+- Jo, já vím.
+
+204
+00:15:14,444 --> 00:15:16,600
+A našli jsme tohle.
+
+205
+00:15:18,711 --> 00:15:22,066
+Energický náboj 301-H.
+Obvyklé problémy, nemá otisky.
+
+206
+00:15:22,080 --> 00:15:24,733
+Když vezmeme v potaz
+pozůstatky po baryonu sigma,
+
+207
+00:15:24,777 --> 00:15:26,800
+které jsme tu taky našli,
+tak to vypadá...
+
+208
+00:15:26,866 --> 00:15:30,711
+Že Echo zabil Gypsy
+transsonickým demolekularizátorem?
+
+209
+00:15:30,770 --> 00:15:34,222
+Ukažte nám to. Hned.
+
+210
+00:15:35,955 --> 00:15:41,533
+Rozložilo se její tělo,
+oblečení, a dokonce i komunikátor.
+
+211
+00:15:52,688 --> 00:15:54,866
+To, jak se právě cítím...
+
+212
+00:15:54,933 --> 00:16:00,666
+Nechci, aby sis myslela, že bych teď
+byl raději s Cynthií, nebo tak něco.
+
+213
+00:16:00,733 --> 00:16:04,911
+Právě zemřel někdo,
+na kom ti záleželo, Cisco.
+
+214
+00:16:05,244 --> 00:16:08,111
+Kdybys nebyl smutný,
+tak bych si říkala, co s tebou je.
+
+215
+00:16:15,533 --> 00:16:20,511
+Když jsme sem přišli,
+tak jsi mi chtěl něco říct.
+
+216
+00:16:30,600 --> 00:16:33,266
+- Kamillo...
+- Uzavíráme to tu.
+
+217
+00:16:33,311 --> 00:16:37,711
+- To snad není možný.
+- Musíte odejít.
+
+218
+00:16:45,933 --> 00:16:48,133
+Ramone.
+
+219
+00:16:50,266 --> 00:16:54,333
+Jen jsem ti chtěl znovu říct,
+jak moc jsem Gypsy obdivoval.
+
+220
+00:16:54,860 --> 00:16:58,155
+Teď musím být alespoň
+stejně dobrý jako ona.
+
+221
+00:17:03,755 --> 00:17:06,466
+Přece to jen tak nevzdáme, že ne?
+
+222
+00:17:06,755 --> 00:17:09,466
+Ne, to ne.
+
+223
+00:17:09,577 --> 00:17:12,911
+Všimla sis, že on jako
+jediný těží z její smrti?
+
+224
+00:17:12,977 --> 00:17:15,133
+Takže jaký je plán?
+
+225
+00:17:15,910 --> 00:17:18,355
+BARI navrhuje podniknout dva kroky.
+
+226
+00:17:18,370 --> 00:17:21,911
+Za prvé, využijeme satelity
+k nalezení stop po té unikátní zbrani.
+
+227
+00:17:21,933 --> 00:17:26,200
+- Dokázala bys... - Zvládnu to.
+Jsem všímavá. A za druhé?
+
+228
+00:17:27,222 --> 00:17:29,511
+Podnikneme něco nemožného.
+
+229
+00:17:42,039 --> 00:17:45,373
+Posaď se, chlape.
+Buď v klidu.
+
+230
+00:17:45,440 --> 00:17:48,020
+- Budeme tak možná žít déle.
+- Jak můžeš vědět,
+
+231
+00:17:48,100 --> 00:17:52,800
+že nás sem někdo,
+kdokoliv, přijde zachránit?
+
+232
+00:17:52,860 --> 00:17:55,040
+- Nevím.
+- Ne?
+
+233
+00:17:55,280 --> 00:17:56,940
+Ale věřím v to.
+
+234
+00:17:57,000 --> 00:18:01,480
+Vidím, že jsi nepřišel
+o smysl pro humor, kapitáne.
+
+235
+00:18:09,290 --> 00:18:13,240
+- Zamotala se ti hlava, že jo?
+- Ne.
+
+236
+00:18:14,370 --> 00:18:19,960
+Ty prostě nevěříš ničemu a nikomu.
+
+237
+00:18:20,910 --> 00:18:23,000
+Taky jsem takový býval.
+
+238
+00:18:23,040 --> 00:18:27,340
+Když mě a mou dceru
+opustila moje bývalá žena,
+
+239
+00:18:28,280 --> 00:18:30,380
+byl jsem zničený.
+
+240
+00:18:31,580 --> 00:18:36,180
+A to mě přimělo jít někam,
+kam skoro nikdy nechodím.
+
+241
+00:18:36,380 --> 00:18:38,320
+Do kostela.
+
+242
+00:18:38,390 --> 00:18:42,960
+Nešel jsem se modlit.
+Šel jsem vynadat vesmíru.
+
+243
+00:18:44,200 --> 00:18:46,140
+Když jsem byl pak doma,
+
+244
+00:18:47,270 --> 00:18:49,980
+byl jsem tak na dně,
+že jsem ani nedokázal
+
+245
+00:18:50,070 --> 00:18:54,580
+uvařit večeři pro svou dceru.
+
+246
+00:18:55,160 --> 00:18:58,740
+Pak zazvonil zvonek.
+Otevřel jsem dveře
+
+247
+00:18:58,840 --> 00:19:03,380
+a na mé předzahrádce
+stálo snad celé sousedství.
+
+248
+00:19:03,450 --> 00:19:05,840
+Donesli nám jídlo.
+
+249
+00:19:10,460 --> 00:19:13,200
+Můžeš věřit v cokoliv,
+
+250
+00:19:13,890 --> 00:19:16,680
+ale tehdy jsem si uvědomil,
+
+251
+00:19:19,370 --> 00:19:21,520
+že věřím v lidi samotné.
+
+252
+00:19:31,520 --> 00:19:34,600
+Podle BARIho můžeme využít
+nízkoúrovňové delta vibrace,
+
+253
+00:19:34,620 --> 00:19:37,800
+abychom stimulovali harmonickou
+resonanci mé mozkové kůry.
+
+254
+00:19:37,840 --> 00:19:40,880
+Pokud budu myslet na Cynthii,
+budeme moct absorbovat
+
+255
+00:19:40,920 --> 00:19:44,880
+zbytkovou vibraci
+z objektu, který ji zabil.
+
+256
+00:19:45,260 --> 00:19:48,320
+- Může mi ta mašina vrátit
+moje vibrační schopnosti? - Ne.
+
+257
+00:19:48,340 --> 00:19:52,520
+My ty vibrace nevydáváme,
+ale budeme je přijímat.
+
+258
+00:19:52,800 --> 00:19:57,240
+Budu se muset dívat na to,
+jak Cynthia umřela, že?
+
+259
+00:20:02,920 --> 00:20:06,240
+Jen tak zjistíme, kdo ji zabil.
+
+260
+00:20:08,280 --> 00:20:13,720
+Moje zařízení pro klidný spánek
+bude stimulovat naše delta vlny.
+
+261
+00:20:13,780 --> 00:20:17,200
+A tenhle náboj
+bude naším spouštěčem.
+
+262
+00:20:18,780 --> 00:20:23,460
+BARI, zahaj umělé vyvolání vibrací.
+
+263
+00:20:28,120 --> 00:20:31,580
+Aby to fungovalo,
+musíme se držet za ruce.
+
+264
+00:20:57,855 --> 00:21:00,378
+NALZEN TRANSSONICKÝ
+DEMOLEKULARIZÁTOR
+
+265
+00:21:01,879 --> 00:21:04,969
+NALZEN TRANSSONICKÝ
+DEMOLEKULARIZÁTOR
+
+266
+00:21:50,560 --> 00:21:53,380
+- Zavraždil jsi mou dceru!
+- Ne.
+
+267
+00:21:53,470 --> 00:21:56,320
+Ne, nezavraždil! Přísahám!
+
+268
+00:21:56,370 --> 00:21:59,640
+- Lžeš! - Musíte mi věřit!
+- Nechte ho!
+
+269
+00:22:00,310 --> 00:22:03,180
+- Kde jsi to našla?
+- V Ciscově dílně.
+
+270
+00:22:03,220 --> 00:22:05,660
+- Nevím, kde se to tam vzalo.
+- Já to vím.
+
+271
+00:22:05,720 --> 00:22:09,600
+- Zabil mi tím dceru.
+- Ne. Breachere.
+
+272
+00:22:09,620 --> 00:22:11,880
+Je mi jedno, co jste viděl.
+Znáte přece Cisca.
+
+273
+00:22:11,920 --> 00:22:14,780
+Měl Gypsy rád.
+Musí existovat jiné vysvětlení.
+
+274
+00:22:14,820 --> 00:22:18,120
+- Prosím, zlato.
+- A co třeba dvojníci?
+
+275
+00:22:18,240 --> 00:22:21,260
+Má pravdu.
+Existují tisíce dalších verzí mě.
+
+276
+00:22:21,320 --> 00:22:26,500
+Jo a všichni jsou kancelářské
+krysy. Ale vědec jsi jen ty!
+
+277
+00:22:26,640 --> 00:22:29,960
+Měl jsi motiv a taky koule
+na to, abys to udělal.
+
+278
+00:22:30,500 --> 00:22:34,820
+Breachere, přísahám,
+že nevím, jak je to možné.
+
+279
+00:22:38,950 --> 00:22:41,020
+Pokud teda...
+
+280
+00:22:42,450 --> 00:22:44,960
+Pokud to není trhlinová psychóza.
+
+281
+00:22:47,290 --> 00:22:52,000
+Kamillo, kolik bylo hodin,
+když jsi mě našla náměsíčného?
+
+282
+00:22:52,390 --> 00:22:55,500
+Nevím. Možná čtyři?
+
+283
+00:22:58,600 --> 00:23:00,800
+Udělals to.
+
+284
+00:23:03,900 --> 00:23:08,460
+Ale nebyl jsi při vědomí.
+Dnes jsem nepřišel jen o dceru.
+
+285
+00:23:08,880 --> 00:23:12,380
+Přišel jsem o syna.
+
+286
+00:23:13,650 --> 00:23:17,460
+Pořád totiž respektuju
+muže, kterým jsi býval.
+
+287
+00:23:17,820 --> 00:23:24,040
+Máš hodinu na to, aby sis
+tu dodělal, co potřebuješ.
+
+288
+00:23:24,160 --> 00:23:26,660
+Pak se udáš.
+
+289
+00:23:27,160 --> 00:23:29,500
+Nebo to s tebou skončím.
+
+290
+00:23:50,130 --> 00:23:52,260
+Co to děláš?
+
+291
+00:23:52,480 --> 00:23:57,200
+- Odpálím tu suť. - Když to uděláš,
+tak se to tu na nás zřítí a umřeme.
+
+292
+00:23:57,260 --> 00:24:01,620
+- A když nic neudělám, tak stejně
+umřeme. - Ale budeme živí,
+
+293
+00:24:01,740 --> 00:24:03,580
+- až nás tu najde můj tým.
+- A dost!
+
+294
+00:24:03,600 --> 00:24:07,120
+Už přestaň s těmi
+žvásty o tom tvém týmu!
+
+295
+00:24:07,260 --> 00:24:09,660
+Můj názor znáš.
+
+296
+00:24:09,900 --> 00:24:14,800
+- Jak můžeš mít takovou víru?
+- Protože někdo nebo něco,
+
+297
+00:24:15,140 --> 00:24:21,180
+co si říká Monitor, nám řekl,
+že můj syn zemře během nějaké krize.
+
+298
+00:24:21,200 --> 00:24:25,480
+A já se s tím dokážu smířit,
+jen když budu mít dostatek víry,
+
+299
+00:24:25,520 --> 00:24:30,640
+že jeho život nebo smrt,
+bude v rámci...
+
+300
+00:24:31,080 --> 00:24:34,300
+V rámci... vyššího dobra.
+
+301
+00:24:35,730 --> 00:24:38,120
+Viděl jsi Mara Novua?
+
+302
+00:24:41,530 --> 00:24:43,360
+Kapitáne.
+
+303
+00:24:46,210 --> 00:24:48,100
+Kapitáne.
+
+304
+00:25:14,530 --> 00:25:16,780
+Jsem tady, chlapáku.
+Už jsi v pořádku.
+
+305
+00:25:20,660 --> 00:25:25,280
+- Došla ti moje zpráva - Ne. Volal
+jsem na stanici ohledně Ramseyho,
+
+306
+00:25:25,320 --> 00:25:28,820
+ale nikdo tě dneska neviděl.
+Vystopovali jsme tvoje auto.
+
+307
+00:25:28,900 --> 00:25:31,660
+Měl jsi v poznámkách
+zakreslený tenhle tunel.
+
+308
+00:25:31,750 --> 00:25:33,560
+Hádám,
+
+309
+00:25:34,650 --> 00:25:36,880
+že to bylo kvůli němu.
+
+310
+00:25:39,690 --> 00:25:43,300
+- Osamělý jezdec.
+- Nazdar.
+
+311
+00:25:53,250 --> 00:25:55,396
+HIPPOKRATOVA PŘÍSAHA
+
+312
+00:26:04,020 --> 00:26:06,480
+Vidím, že jsi moji zprávu obdržela.
+
+313
+00:26:08,520 --> 00:26:10,260
+Cait.
+
+314
+00:26:13,160 --> 00:26:17,420
+Je trochu divné tě takto vidět.
+
+315
+00:26:19,070 --> 00:26:22,805
+To víš, mění se vzhled nás obou.
+
+316
+00:26:22,870 --> 00:26:25,480
+Ano, dostala jsem tvou zprávu.
+
+317
+00:26:25,680 --> 00:26:28,900
+Připomnělo mi to časy, kdy jsme
+oba pracovali pro tvoji mamku.
+
+318
+00:26:28,980 --> 00:26:33,240
+- Když jsem byla ještě praktikantka.
+- Byla jsi pro mamku jako dcera.
+
+319
+00:26:33,480 --> 00:26:35,780
+Víš, že jsem na tebe žárlil?
+
+320
+00:26:35,840 --> 00:26:41,340
+Nakonec jsem tě přestal vnímat
+jako soka, stala ses mi sestrou.
+
+321
+00:26:41,500 --> 00:26:46,720
+A proto ti nabízím
+možnost se ke mně přidat.
+
+322
+00:26:46,820 --> 00:26:48,890
+Taky mě chceš zabít.
+
+323
+00:26:49,020 --> 00:26:51,800
+Nabízím ti život, Cait.
+
+324
+00:26:58,843 --> 00:27:03,680
+Naučil jsem se to ovládat.
+Odhalil jsem to nádherné tajemství.
+
+325
+00:27:03,740 --> 00:27:07,780
+Tohle je mé
+konečné mistrovské dílo, Cait.
+
+326
+00:27:09,160 --> 00:27:11,700
+Věčný život.
+
+327
+00:27:12,050 --> 00:27:13,980
+Nesmrtelnost?
+
+328
+00:27:15,050 --> 00:27:18,740
+Vidíš? Nejsem zrůda.
+
+329
+00:27:18,940 --> 00:27:21,000
+- Jsem zázrak.
+- Mluvíš tu o něčem,
+
+330
+00:27:21,060 --> 00:27:24,300
+- co se příčí přirozenosti.
+- Ta nikdy nechtěla, abychom létali,
+
+331
+00:27:24,360 --> 00:27:27,720
+a přesto jsme se dotkli
+hvězd. Nebylo to díky tomu,
+
+332
+00:27:27,780 --> 00:27:30,620
+že jsme zůstali
+otroky přirozeného řádu,
+
+333
+00:27:30,700 --> 00:27:33,580
+ale díky tomu, že se
+nám ho podařilo překonat.
+
+334
+00:27:33,878 --> 00:27:36,279
+Jen se podívej na vlastní život, Cait.
+
+335
+00:27:36,348 --> 00:27:39,415
+Kolikrát ses musela
+s někým navždy rozloučit?
+
+336
+00:27:39,480 --> 00:27:43,320
+Kolikrát jsi ani nedostala
+možnost se rozloučit?
+
+337
+00:27:43,950 --> 00:27:49,220
+Moje mamka by tu měla být.
+Tvůj taťka by tu měl být.
+
+338
+00:27:50,760 --> 00:27:53,880
+Měl by tu být i tvůj manžel.
+
+339
+00:27:55,500 --> 00:27:59,120
+Přidej se ke mně a už se nikdy
+nebudeš muset s nikým loučit.
+
+340
+00:27:59,160 --> 00:28:03,000
+Ti, které miluješ,
+budou žít navždy.
+
+341
+00:28:04,220 --> 00:28:06,720
+Viděla jsem,
+jak ten tvůj život vypadá.
+
+342
+00:28:07,940 --> 00:28:13,100
+Je to noční můra, ale ty můžeš
+i přesto pořád zůstat synem své matky.
+
+343
+00:28:13,360 --> 00:28:16,800
+Tak moc v tebe věřila
+a já v tebe také věřím.
+
+344
+00:28:16,980 --> 00:28:19,720
+Musíš v sebe také věřit.
+
+345
+00:28:25,540 --> 00:28:28,380
+Jsi šílená.
+
+346
+00:28:36,470 --> 00:28:39,720
+Příště už ti nedám na výběr.
+
+347
+00:28:48,680 --> 00:28:52,320
+Musíme se dívat na fakta.
+A musím čelit následkům toho,
+
+348
+00:28:52,360 --> 00:28:54,820
+- co jsem mohl udělal.
+- Půjdeš se udat?
+
+349
+00:28:54,860 --> 00:28:58,460
+Musím. Už nemůžu věřit sám sobě.
+
+350
+00:28:58,530 --> 00:29:04,300
+Už? Přestal sis důvěřovat v ten moment,
+kdy z tebe Barry udělal vůdce týmu.
+
+351
+00:29:04,360 --> 00:29:08,380
+- Vždyť sis sestrojil tohle složité zařízení,
+aby rozhodovalo za tebe. - To je...
+
+352
+00:29:08,440 --> 00:29:12,580
+Dovol mi rozhodnout
+za tebe. Jsi nevinný.
+
+353
+00:29:14,370 --> 00:29:16,560
+Jak si můžeš být tak jistá?
+
+354
+00:29:16,910 --> 00:29:19,080
+Protože v tebe věřím.
+
+355
+00:29:21,050 --> 00:29:26,080
+- Tak proč nevěříš ty sám sobě?
+- Protože Barry umře!
+
+356
+00:29:26,190 --> 00:29:29,780
+Co když nedokážu
+ochránit lidi, tak jak to umí on?
+
+357
+00:29:37,640 --> 00:29:40,200
+- Nejsem Flash.
+- Zlato.
+
+358
+00:29:41,430 --> 00:29:46,980
+Barry po tobě nechce, abys byl
+Flashem. Chce, abys byl sám sebou.
+
+359
+00:29:52,617 --> 00:29:55,685
+Všechny ty pochyby, to nejsi ty.
+
+360
+00:29:55,750 --> 00:29:59,040
+Je to jen něco, co sis namluvil.
+
+361
+00:30:12,660 --> 00:30:16,140
+Celou tu dobu to je v režimu wifi.
+
+362
+00:30:18,470 --> 00:30:22,460
+- Co to je? - Ten kód.
+Přeměnil moje zařízení
+
+363
+00:30:22,500 --> 00:30:27,620
+na mikronervovou rušičku stimulů.
+Někdo si pohrával s mými mozkovými vlnami,
+
+364
+00:30:27,700 --> 00:30:32,320
+- aby to vypadalo, že trpím trhlinovou
+psychózou. - Kdo by tohle dokázal?
+
+365
+00:30:32,420 --> 00:30:34,140
+Já.
+
+366
+00:30:41,020 --> 00:30:45,840
+Někdy je pravda
+tou nejneprůhlednější lží.
+
+367
+00:30:45,860 --> 00:30:49,060
+<i>Pokud se člověk nemůže
+spolehnout na pravdu,</i>
+
+368
+00:30:49,130 --> 00:30:52,780
+tak se věcí musí chopit sám.
+
+369
+00:30:52,870 --> 00:30:55,080
+Jste zatčen, Ramone.
+
+370
+00:30:59,680 --> 00:31:01,600
+Vzdávám se.
+
+371
+00:31:05,050 --> 00:31:08,260
+- Jsem vinen.
+- Podezřelý je ve vazbě.
+
+372
+00:31:08,520 --> 00:31:12,800
+Započněte s odstraněním QČ sítě,
+abychom mohli přemístit vězně na Zemi 19.
+
+373
+00:31:12,860 --> 00:31:19,660
+<i>- Rozumím.</i> - Ta holografická kostka vám
+ukáže, co se stalo Cynthii, Breachere.
+
+374
+00:31:19,720 --> 00:31:23,660
+<i>- QČ síť je vypnutá.</i>
+- QČ síť je vypnutá, pane.
+
+375
+00:31:24,930 --> 00:31:27,500
+Spoutám ho.
+
+376
+00:31:38,910 --> 00:31:44,160
+Promiňte mi to, ale potřeboval
+jsem, abyste tu síť vypnuli.
+
+377
+00:31:44,520 --> 00:31:46,760
+- Zapněte QČ síť.
+<i>- Bude to za čtyři minuty.</i>
+
+378
+00:31:46,820 --> 00:31:50,500
+Je mi jedno, že to bude trvat
+čtyři minuty. Prostě to zapněte!
+
+379
+00:31:54,960 --> 00:31:57,700
+- Nesnáším silová pole.
+- Já vím.
+
+380
+00:31:57,780 --> 00:32:01,740
+Cisco. Myslíš si,
+že nechám muže,
+
+381
+00:32:01,970 --> 00:32:04,860
+který zabil moji dceru, uniknout?
+
+382
+00:32:04,960 --> 00:32:08,440
+Ne, pane. A já taky ne.
+
+383
+00:32:16,990 --> 00:32:18,900
+Jsem tady.
+
+384
+00:32:19,840 --> 00:32:22,920
+<i>- Nikde ho nevidím.</i>
+- Trhlinová energie se nachází
+
+385
+00:32:22,980 --> 00:32:25,020
+na východní straně skladiště.
+
+386
+00:32:29,160 --> 00:32:33,100
+- Spadla klec, Echo.
+- Ale ne, tys mě našel.
+
+387
+00:32:33,200 --> 00:32:37,880
+- Jak jsi mě našel?
+- Přiměl jsem sběratele vypnout QČ síť.
+
+388
+00:32:37,960 --> 00:32:42,820
+Věděl jsem, že když ji vypnou,
+tak se pokusíš otevřít trhlinu a utéct.
+
+389
+00:32:42,880 --> 00:32:47,580
+- Stačilo jen najít trhlinovou energii.
+- Přiveď ho sem, ať ho můžou zatknout.
+
+390
+00:32:47,640 --> 00:32:51,640
+Asi za dvě minuty odtud vypadnu.
+
+391
+00:32:51,700 --> 00:32:55,720
+Dostanu se pryč a ty
+půjdeš místo mě na Zemi 19
+
+392
+00:32:55,780 --> 00:32:58,940
+do vězeňské cely sběratelů.
+Ale ty tu máš z nás dvou zbraň.
+
+393
+00:33:01,500 --> 00:33:04,220
+Máš na to, abys mě zastavil?
+
+394
+00:33:06,570 --> 00:33:08,700
+To hned zjistíme.
+
+395
+00:33:10,170 --> 00:33:12,400
+Jsi anomálie.
+
+396
+00:33:14,580 --> 00:33:19,080
+Proto se ptám sám sebe, jak to,
+že bylo tak lehké to na tebe hodit?
+
+397
+00:33:19,160 --> 00:33:23,020
+Nechceš vědět, jak jsem to udělal?
+Možná by ses něčemu přiučil.
+
+398
+00:33:23,120 --> 00:33:25,820
+Ne, vím to.
+Poté, co ses sem dostal,
+
+399
+00:33:25,860 --> 00:33:30,280
+jsi zabil nejvyššího agenta sběratelů,
+ale potřeboval ses dostat pryč.
+
+400
+00:33:30,400 --> 00:33:35,580
+<i>Takže ses díky své tváři dostal
+do STAR Labs a dals mi zbraň do dílny.</i>
+
+401
+00:33:39,840 --> 00:33:42,380
+- Mám pravdu?
+- Zatím jo.
+
+402
+00:33:42,440 --> 00:33:46,980
+Ale kdyžs mi hacknul bílý šum,
+a udělal ze mě náměsíčného,
+
+403
+00:33:49,680 --> 00:33:52,350
+tak jsi mi odhalil svoje karty.
+
+404
+00:33:52,410 --> 00:33:54,980
+Tohle kódování bych poznal kdykoliv.
+
+405
+00:33:55,155 --> 00:33:57,689
+A protože jsem to nehacknul já,
+
+406
+00:33:57,750 --> 00:34:00,160
+věděl jsem, že to musí
+být nějaká moje verze.
+
+407
+00:34:00,260 --> 00:34:03,680
+Nejsem jen nějaká tvoje verze.
+
+408
+00:34:03,740 --> 00:34:07,220
+Specializuju se na hackování
+mnohovesmírných databází,
+
+409
+00:34:07,280 --> 00:34:12,500
+abych vytvořil nové identity.
+Mohl bych tvůj svět změnit.
+
+410
+00:34:13,560 --> 00:34:18,700
+Ani by ses nenadál.
+Někde tam je Cisco Ramon,
+
+411
+00:34:18,810 --> 00:34:23,020
+který neměl takové
+štěstí jako ty, nemá tvoji práci,
+
+412
+00:34:23,080 --> 00:34:26,680
+mysl ani život, který máš ty.
+
+413
+00:34:27,680 --> 00:34:34,540
+Ale za správnou cenu
+dokáže Echo tohle štěstí zvrátit.
+
+414
+00:34:34,860 --> 00:34:38,320
+A ráno se můžeš
+probudit jako někdo jiný.
+
+415
+00:34:38,420 --> 00:34:43,200
+Protos ji zabil? Abys mohl
+nadále měnit identity?
+
+416
+00:34:43,280 --> 00:34:47,200
+Já Gypsy nezabil. To ty.
+
+417
+00:34:50,840 --> 00:34:54,060
+Ale bojovala fakt skvěle.
+
+418
+00:34:54,120 --> 00:35:00,080
+Neporazil by ji ani ten nejchytřejší člověk,
+ale v tu chvíli na tom nesešlo.
+
+419
+00:35:00,160 --> 00:35:06,640
+I když mě roky naháněla,
+tak nikdy nevěděla, jak vypadám.
+
+420
+00:35:06,660 --> 00:35:10,480
+Takže když mě chytila
+a uviděla moji tvář,
+
+421
+00:35:10,540 --> 00:35:14,690
+stačil jediný moment,
+chvilka pochybení,
+
+422
+00:35:14,760 --> 00:35:18,244
+a díky tomu jsem mohl
+vytáhnout zbraň a použít ji.
+
+423
+00:35:18,266 --> 00:35:20,970
+Tu stejnou zbraň,
+kterou teď držíš ve svých rukách.
+
+424
+00:35:21,020 --> 00:35:24,860
+Mám ti to vyhláskovat, ty génie?
+
+425
+00:35:25,040 --> 00:35:30,500
+Gypsy je mrtvá,
+protože když mě uviděla,
+
+426
+00:35:30,840 --> 00:35:33,280
+- tak viděla tebe.
+- Zmlkni.
+
+427
+00:35:33,414 --> 00:35:36,715
+Nemusela zemřít.
+Ale nedokázala mě nechat jít.
+
+428
+00:35:36,780 --> 00:35:40,520
+Přenesla mě na tuto
+Zemi a já ji rozložil.
+
+429
+00:35:40,620 --> 00:35:43,540
+- Ne.
+- Ano.
+
+430
+00:36:14,250 --> 00:36:16,380
+Neměj z toho výčitky, Cisco.
+
+431
+00:36:18,120 --> 00:36:20,260
+Prostě toho neumíš tolik, co já.
+
+432
+00:36:27,030 --> 00:36:31,460
+Máš pravdu.
+Protože jsem mnohem chytřejší.
+
+433
+00:36:33,280 --> 00:36:35,880
+Naprogramoval jsem tu zbraň tak,
+
+434
+00:36:35,920 --> 00:36:39,320
+aby se stiskem spouště
+vytvořilo antivibrační silové pole.
+
+435
+00:36:39,580 --> 00:36:42,100
+V tomto případě
+
+436
+00:36:42,380 --> 00:36:44,320
+jsi spoušť stiskl ty, génie.
+
+437
+00:36:51,420 --> 00:36:53,980
+Pustili jste si
+tu hologramovou zprávu?
+
+438
+00:36:56,920 --> 00:36:59,380
+Dali jste si na čas.
+
+439
+00:37:09,940 --> 00:37:13,440
+Echo je vězněn na Zemi 19.
+
+440
+00:37:13,620 --> 00:37:18,580
+Dostal, co mu patří. Promiň,
+že jsem ti nevěřil, Ciskáču.
+
+441
+00:37:19,140 --> 00:37:22,080
+Víte vy co? To nevadí.
+
+442
+00:37:22,540 --> 00:37:26,000
+- Na chvíli to se mnou
+vypadalo fakt zle. - Jo.
+
+443
+00:37:26,300 --> 00:37:31,280
+Akorát nerozumím tomu,
+proč by chodila umřít sem?
+
+444
+00:37:36,310 --> 00:37:41,540
+Protože věděla, že ty
+Echoa předáš spravedlnosti.
+
+445
+00:37:41,850 --> 00:37:46,400
+Musela ho na tuto Zemi nalákat.
+
+446
+00:37:47,500 --> 00:37:50,160
+Nikdy v tebe nepřestala věřit, Cisco.
+
+447
+00:37:56,098 --> 00:37:59,399
+Když už to máme za sebou,
+
+448
+00:37:59,460 --> 00:38:03,360
+- co mám teď dělat?
+- To, co já.
+
+449
+00:38:04,170 --> 00:38:06,340
+Musíme se uzdravit.
+
+450
+00:38:07,000 --> 00:38:14,100
+Chtěl jsem tě pozvat na Cynthiin
+vzpomínkový obřad na Zemi 19.
+
+451
+00:38:15,617 --> 00:38:17,784
+Tebe taky.
+
+452
+00:38:18,100 --> 00:38:22,340
+- Bude mi ctí.
+- Cynthia by tě měla ráda.
+
+453
+00:38:24,290 --> 00:38:26,580
+Taky se mi zamlouváš.
+
+454
+00:38:27,160 --> 00:38:29,360
+Co na ní nejde nemilovat?
+
+455
+00:38:33,120 --> 00:38:35,120
+Trapas.
+
+456
+00:38:37,200 --> 00:38:39,240
+Už musím jít.
+
+457
+00:38:47,340 --> 00:38:50,720
+Takže... Jo. Já...
+
+458
+00:38:51,620 --> 00:38:55,900
+- Ještě jsme si to neřekli.
+- Já vím.
+
+459
+00:38:56,300 --> 00:39:00,500
+Víš... Jo. Já...
+
+460
+00:39:03,220 --> 00:39:07,540
+- Já taky. A moc.
+- Díkybohu.
+
+461
+00:39:14,900 --> 00:39:20,540
+- Žes tu celou tu dobu jen neseděl?
+- Říkal jsem si, že cítím opalovák.
+
+462
+00:39:22,010 --> 00:39:24,420
+- Tak jak bylo?
+- Skvěle.
+
+463
+00:39:24,500 --> 00:39:30,080
+15 pláží za 24 hodin. Výhoda toho,
+že jsem vdaná za rychlíka.
+
+464
+00:39:30,490 --> 00:39:35,320
+- Chesterova energie už je na 87 %?
+- Jo.
+
+465
+00:39:35,360 --> 00:39:38,960
+Jo. Posilovač s ním bude
+hotový už každým dnem.
+
+466
+00:39:39,040 --> 00:39:43,440
+A co BARI, dobrý?
+
+467
+00:39:43,500 --> 00:39:46,780
+Vlastně jsem se ho musel
+zbavit. Použil jsem ho.
+
+468
+00:39:46,840 --> 00:39:49,380
+Snažil jsem se ho využívat,
+
+469
+00:39:50,520 --> 00:39:53,980
+ale pak jsem si uvědomil...
+
+470
+00:39:54,340 --> 00:39:57,920
+- Ale tys věděl, že to udělám.
+- A mám další důkaz,
+
+471
+00:39:57,960 --> 00:40:00,200
+že jsem si zvolil správně.
+
+472
+00:40:01,820 --> 00:40:06,520
+Došla nám tvá zpráva, Cisco.
+To s Gypsy mě opravdu mrzí.
+
+473
+00:40:06,720 --> 00:40:08,860
+Přes něco se prostě nedá přenést.
+
+474
+00:40:10,330 --> 00:40:13,340
+Ale příští týden bude
+mít poslední rozloučení.
+
+475
+00:40:13,500 --> 00:40:16,560
+- Máme jít s tebou?
+- Jo. Taky jsme ji měli rádi.
+
+476
+00:40:16,620 --> 00:40:20,400
+Díky, ale půjde se mnou Kamilla.
+
+477
+00:40:22,170 --> 00:40:24,820
+Mám štěstí, že ji mám.
+
+478
+00:40:27,280 --> 00:40:31,080
+Je blbý, že se tak cítím?
+
+479
+00:40:31,300 --> 00:40:34,650
+Po tom všem, co se právě stalo?
+
+480
+00:40:34,720 --> 00:40:38,040
+Že prostě jdu dál?
+
+481
+00:40:39,220 --> 00:40:44,580
+- Kdo tohle dělá?
+- Někdo, kdo je opravdu zamilovaný.
+
+482
+00:40:48,160 --> 00:40:52,920
+Je to vtipný. Se Cynthií
+jsem nakonec neskončil,
+
+483
+00:40:54,000 --> 00:40:56,280
+ale...
+
+484
+00:40:57,410 --> 00:41:00,980
+Naučila mě být tím,
+kým jsem potřeboval být
+
+485
+00:41:01,400 --> 00:41:04,020
+pro tu správnou osobu,
+
+486
+00:41:04,540 --> 00:41:08,260
+a díky tomu na ni
+nikdy nezapomenu.
+
+487
+00:41:13,860 --> 00:41:16,140
+Životní funkce máš v pořádku, Joe.
+
+488
+00:41:17,640 --> 00:41:22,440
+Při záchraně vašich pozadí jsem se
+vás zapomněl zeptat, co jste tam dělali?
+
+489
+00:41:22,480 --> 00:41:24,940
+"Pozadí" už nikdo tak
+od čtyřicátých let neříká.
+
+490
+00:41:25,020 --> 00:41:28,540
+Kdybys nám řekl,
+co tam dole hledáš, Nashi,
+
+491
+00:41:28,680 --> 00:41:30,740
+tak bychom ti možná mohli pomoci.
+
+492
+00:41:33,260 --> 00:41:37,100
+Dobře. V 9:00 buďte
+s celým svým týmem v tunelech.
+
+493
+00:41:37,160 --> 00:41:39,640
+- A proč jako?
+- Protože vím,
+
+494
+00:41:39,750 --> 00:41:42,220
+jak zachránit Barryho Allena.
+
+495
+00:41:45,711 --> 00:41:47,600
+<i>přeložili joyeux a Xavik</i>
+
+496
+00:41:47,666 --> 00:41:49,600
+<i>edna.cz/the-flash</i>
+
