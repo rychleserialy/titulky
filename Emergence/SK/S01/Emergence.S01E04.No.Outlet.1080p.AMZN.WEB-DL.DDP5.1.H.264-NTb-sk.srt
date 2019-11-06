@@ -1,61 +1,61 @@
 1
 00:00:01,120 --> 00:00:03,040
-<i>V predchádzajúcich èastiach "Emergence"...</i>
+<i>V predchÃ¡dzajÃºcich Äastiach "Emergence"...</i>
 
 2
 00:00:03,040 --> 00:00:04,210
-Na plái havarovalo lietadlo.
+Na plÃ¡Å¾i havarovalo lietadlo.
 
 3
 00:00:04,210 --> 00:00:05,250
-Na mieste havárie som našla diea.
+Na mieste havÃ¡rie som naÅ¡la dieÅ¥a.
 
 4
 00:00:05,250 --> 00:00:06,920
-Bolo mi povedané, e nebolo ani v lietadle.
+Bolo mi povedanÃ©, Å¾e nebolo ani v lietadle.
 
 5
 00:00:06,920 --> 00:00:09,380
-Myslím, e mohla by testovanı subjekt.
+MyslÃ­m, Å¾e mohla byÅ¥ testovanÃ½ subjekt.
 
 6
 00:00:09,380 --> 00:00:11,960
-Toto tu je kód, ktorı vaša
-rádiová frekvencia vysielala.
+Toto tu je kÃ³d, ktorÃ½ vaÅ¡a
+rÃ¡diovÃ¡ frekvencia vysielala.
 
 7
 00:00:11,960 --> 00:00:12,960
-Ty si to rozlúštil.
+Ty si to rozlÃºÅ¡til.
 
 8
 00:00:12,960 --> 00:00:14,290
-Piper to dokázala.
+Piper to dokÃ¡zala.
 
 9
 00:00:14,290 --> 00:00:16,000
-Kindred, on je ve¾mi, ve¾mi zlı èlovek,
+Kindred, on je veÄ¾mi, veÄ¾mi zlÃ½ Älovek,
 
 10
 00:00:16,000 --> 00:00:18,380
-ktorı urobí èoko¾vek, aby ochránil svoje záujmy.
+ktorÃ½ urobÃ­ ÄokoÄ¾vek, aby ochrÃ¡nil svoje zÃ¡ujmy.
 
 11
 00:00:18,380 --> 00:00:21,420
-Viete, èo robím s tımi,
-ktorí kradnú môj majetok?
+Viete, Äo robÃ­m s tÃ½mi,
+ktorÃ­ kradnÃº mÃ´j majetok?
 
 12
 00:00:21,420 --> 00:00:23,540
-Emily! Hneï.
+Emily! HneÄ.
 
 13
 00:00:23,540 --> 00:00:25,120
-- Èo tu robíme?
-- Zháòame liek.
+- ÄŒo tu robÃ­me?
+- ZhÃ¡Åˆame liek.
 
 14
 00:00:25,120 --> 00:00:26,460
-Nemáme ve¾a èasu.
+NemÃ¡me veÄ¾a Äasu.
 
 15
 00:00:26,460 --> 00:00:27,960
@@ -63,7 +63,7 @@ To je disk!
 
 16
 00:00:27,960 --> 00:00:29,380
-Patrí jej.
+PatrÃ­ jej.
 
 17
 00:00:29,380 --> 00:00:30,920
@@ -71,11 +71,11 @@ Ten disk je jej.
 
 18
 00:00:30,920 --> 00:00:32,500
-Spojenie je tu, na vnútornom zápästí.
+Spojenie je tu, na vnÃºtornom zÃ¡pÃ¤stÃ­.
 
 19
 00:00:32,500 --> 00:00:34,120
-Nahrávanie sa spustí automaticky.
+NahrÃ¡vanie sa spustÃ­ automaticky.
 
 20
 00:00:35,380 --> 00:00:36,500
@@ -83,7 +83,7 @@ Ahoj.
 
 21
 00:01:02,170 --> 00:01:04,570
-Emily sa pripravuje ujs.
+Emily sa pripravuje ujsÅ¥.
 
 22
 00:01:09,750 --> 00:01:12,580
@@ -95,27 +95,27 @@ Ahoj.
 
 24
 00:01:13,920 --> 00:01:15,040
-Môem dosta trochu vody?
+MÃ´Å¾em dostaÅ¥ trochu vody?
 
 25
 00:01:18,580 --> 00:01:19,960
-Jasné. Iste.
+JasnÃ©. Iste.
 
 26
 00:01:21,500 --> 00:01:23,250
-Potom musíš ís spa, dobre?
+Potom musÃ­Å¡ Ã­sÅ¥ spaÅ¥, dobre?
 
 27
 00:01:44,000 --> 00:01:45,290
-Pozrite, myslím, e ona je náš jedinı zdroj,
+Pozrite, myslÃ­m, Å¾e ona je nÃ¡Å¡ jedinÃ½ zdroj,
 
 28
 00:01:45,290 --> 00:01:46,790
-tak na òu musím dozera.
+tak na Åˆu musÃ­m dozeraÅ¥.
 
 29
 00:01:46,790 --> 00:01:48,540
-Zbalila sa do auta. Pripravuje sa na útek.
+Zbalila sa do auta. Pripravuje sa na Ãºtek.
 
 30
 00:01:48,540 --> 00:01:49,880
@@ -123,7 +123,7 @@ Fungovalo to.
 
 31
 00:01:51,290 --> 00:01:56,120
-Tá ... aktualizácia u Piper fungovala.
+TÃ¡ ... aktualizÃ¡cia u Piper fungovala.
 
 32
 00:01:57,830 --> 00:01:59,880
@@ -144,11 +144,11 @@ Neviem.
 36
 00:02:06,620 --> 00:02:10,080
 Ani tomu nerozumiem,
-ako je to moné.
+ako je to moÅ¾nÃ©.
 
 37
 00:02:13,920 --> 00:02:15,880
-Ale stavím sa, e ona áno.
+Ale stavÃ­m sa, Å¾e ona Ã¡no.
 
 38
 00:02:21,420 --> 00:02:22,540
@@ -164,32 +164,32 @@ Nie.
 
 41
 00:02:25,670 --> 00:02:27,170
-Nemáte tu èo robi.
+NemÃ¡te tu Äo robiÅ¥.
 
 42
 00:02:27,170 --> 00:02:29,080
-Prvá porucha sa objavila
-pred jedenástimi minútami.
+PrvÃ¡ porucha sa objavila
+pred jedenÃ¡stimi minÃºtami.
 
 43
 00:02:29,080 --> 00:02:30,460
-Mohli by by vonku.
+Mohli by byÅ¥ vonku.
 
 44
 00:02:30,460 --> 00:02:31,580
-O èom to hovoríte?
+O Äom to hovorÃ­te?
 
 45
 00:02:31,580 --> 00:02:33,460
-Porucha v operaènom systéme!
+Porucha v operaÄnom systÃ©me!
 
 46
 00:02:33,460 --> 00:02:35,330
-To nie je náhoda.
+To nie je nÃ¡hoda.
 
 47
 00:02:35,330 --> 00:02:37,120
-- Dostal sa do systému!
+- Dostal sa do systÃ©mu!
 - Kto?
 
 48
@@ -198,23 +198,23 @@ Kindred! Vie o tom.
 
 49
 00:02:39,250 --> 00:02:40,620
-Emily, je mi to naozaj ¾úto, ale ...
+Emily, je mi to naozaj Ä¾Ãºto, ale ...
 
 50
 00:02:40,620 --> 00:02:41,750
-nikam neodídete,
+nikam neodÃ­dete,
 
 51
 00:02:41,750 --> 00:02:44,290
-kım neodpoviete na asi milión otázok.
+kÃ½m neodpoviete na asi miliÃ³n otÃ¡zok.
 
 52
 00:02:45,620 --> 00:02:46,960
-Ve¾a šastia.
+VeÄ¾a Å¡Å¥astia.
 
 53
 00:02:46,960 --> 00:02:48,120
-Emily ...  Emily, poèúvajte.
+Emily ...  Emily, poÄÃºvajte.
 
 54
 00:02:48,120 --> 00:02:49,790
@@ -222,15 +222,15 @@ Ja ...
 
 55
 00:02:49,790 --> 00:02:51,620
-Potrebujem vedie,
+Potrebujem vedieÅ¥,
 
 56
 00:02:51,620 --> 00:02:54,670
-kto to spí v mojom dome.
+kto to spÃ­ v mojom dome.
 
 57
 00:02:54,670 --> 00:02:57,460
-Dobre? K èomu bola vytvorená?
+Dobre? K Äomu bola vytvorenÃ¡?
 
 58
 00:02:57,460 --> 00:02:58,670
@@ -239,11 +239,11 @@ Neviem.
 59
 00:03:01,830 --> 00:03:05,290
 Ja som pracovala iba
-na malej èasti jej kódu.
+na malej Äasti jej kÃ³du.
 
 60
 00:03:05,290 --> 00:03:06,620
-Jej kódu?
+Jej kÃ³du?
 
 61
 00:03:06,620 --> 00:03:08,330
@@ -251,7 +251,7 @@ Ona ...
 
 62
 00:03:08,330 --> 00:03:11,920
-Ona ... Bola vyšetrená lekárom.
+Ona ... Bola vyÅ¡etrenÃ¡ lekÃ¡rom.
 
 63
 00:03:11,920 --> 00:03:14,290
@@ -259,28 +259,28 @@ Odobrali jej krv.
 
 64
 00:03:14,290 --> 00:03:18,000
-Ona ... má rada ryové cereálie.
+Ona ... mÃ¡ rada ryÅ¾ovÃ© cereÃ¡lie.
 
 65
 00:03:18,000 --> 00:03:20,120
-O akom kóde to hovoríte?
+O akom kÃ³de to hovorÃ­te?
 
 66
 00:03:20,120 --> 00:03:23,880
-To je biologická záleitos.
+To je biologickÃ¡ zÃ¡leÅ¾itosÅ¥.
 Neviem, ako to funguje.
 
 67
 00:03:23,880 --> 00:03:25,710
-Je vôbec skutoèná?
+Je vÃ´bec skutoÄnÃ¡?
 
 68
 00:03:25,710 --> 00:03:27,500
-Èo znamená skutoèná?
+ÄŒo znamenÃ¡ skutoÄnÃ¡?
 
 69
 00:03:27,500 --> 00:03:31,420
-Je to ¾udské telo so
+Je to Ä¾udskÃ© telo so
 syntetickou umelou inteligenciou?
 
 70
@@ -289,15 +289,15 @@ Nie.
 
 71
 00:03:33,420 --> 00:03:34,790
-Syntetické je všetko.
+SyntetickÃ© je vÅ¡etko.
 
 72
 00:03:34,790 --> 00:03:36,710
-Neuverite¾né.
+NeuveriteÄ¾nÃ©.
 
 73
 00:03:38,080 --> 00:03:40,120
-Vie, èo je zaè?
+Vie, Äo je zaÄ?
 
 74
 00:03:40,120 --> 00:03:41,500
@@ -305,16 +305,16 @@ Nie.
 
 75
 00:03:41,500 --> 00:03:44,920
-Spôsobilo by to fatálnu vınimoènú chybu.
+SpÃ´sobilo by to fatÃ¡lnu vÃ½nimoÄnÃº chybu.
 
 76
 00:03:44,920 --> 00:03:47,040
-Poveda umelej inteligencii, e je
-umelá inteligencia,
+PovedaÅ¥ umelej inteligencii, Å¾e je
+umelÃ¡ inteligencia,
 
 77
 00:03:47,040 --> 00:03:49,170
-to by program efektívne znièilo.
+to by program efektÃ­vne zniÄilo.
 
 78
 00:03:50,920 --> 00:03:52,460
@@ -322,27 +322,27 @@ Pohnime si.
 
 79
 00:03:52,460 --> 00:03:53,500
-Je nebezpeèná?
+Je nebezpeÄnÃ¡?
 
 80
 00:03:53,500 --> 00:03:55,330
-Nemám u iadne odpovede!
+NemÃ¡m uÅ¾ Å¾iadne odpovede!
 
 81
 00:03:55,330 --> 00:03:57,960
-Emily, poèkajte.
+Emily, poÄkajte.
 
 82
 00:03:57,960 --> 00:03:59,290
-Dovo¾te mi niekam vás odvies.
+DovoÄ¾te mi niekam vÃ¡s odviesÅ¥.
 
 83
 00:03:59,290 --> 00:04:00,750
-Môem vám zabezpeèi ochranu.
+MÃ´Å¾em vÃ¡m zabezpeÄiÅ¥ ochranu.
 
 84
 00:04:00,750 --> 00:04:02,500
-Mám monos, ako zosta v bezpeèí.
+MÃ¡m moÅ¾nosÅ¥, ako zostaÅ¥ v bezpeÄÃ­.
 
 85
 00:04:02,500 --> 00:04:04,330
@@ -350,17 +350,17 @@ Naozaj?
 
 86
 00:04:04,330 --> 00:04:07,210
-Kindred práve zabil
-jedného z jeho vlastnıch muov.
+Kindred prÃ¡ve zabil
+jednÃ©ho z jeho vlastnÃ½ch muÅ¾ov.
 
 87
 00:04:07,210 --> 00:04:09,580
-Na dia¾ku. Na nemocniènom lôku.
+Na diaÄ¾ku. Na nemocniÄnom lÃ´Å¾ku.
 
 88
 00:04:09,580 --> 00:04:12,580
-To nie je práve skvelá reklama
-na vaše sluby.
+To nie je prÃ¡ve skvelÃ¡ reklama
+na vaÅ¡e sluÅ¾by.
 
 89
 00:04:16,960 --> 00:04:19,670
@@ -368,28 +368,28 @@ Teda, zamyslite sa.
 
 90
 00:04:19,670 --> 00:04:22,880
-Ani toho neviete ešte dos,
-aby ste sa báli.
+Ani toho neviete eÅ¡te dosÅ¥,
+aby ste sa bÃ¡li.
 
 91
 00:04:31,330 --> 00:04:33,750
-Úplná strata èasu.
+ÃšplnÃ¡ strata Äasu.
 
 92
 00:04:33,750 --> 00:04:35,830
-Nie úplná strata èasu.
+Nie ÃºplnÃ¡ strata Äasu.
 
 93
 00:04:35,830 --> 00:04:37,540
-Hypotetická otázka.
+HypotetickÃ¡ otÃ¡zka.
 
 94
 00:04:37,540 --> 00:04:39,750
-Keby som urobil nieèo nezákonné,
+Keby som urobil nieÄo nezÃ¡konnÃ©,
 
 95
 00:04:39,750 --> 00:04:42,420
-radšej by ste to chceli vedie, alebo nie?
+radÅ¡ej by ste to chceli vedieÅ¥, alebo nie?
 
 96
 00:04:42,420 --> 00:04:44,880
@@ -397,7 +397,7 @@ Fajn.
 
 97
 00:04:44,880 --> 00:04:46,670
-Dúfal som, e to poviete.
+DÃºfal som, Å¾e to poviete.
 
 98
 00:04:46,670 --> 00:04:49,210
@@ -405,21 +405,21 @@ Emily balila toto
 
 99
 00:04:49,210 --> 00:04:51,000
-a vyzeralo to dôleité,
+a vyzeralo to dÃ´leÅ¾itÃ©,
 tak som to zobral.
 
 100
 00:04:52,120 --> 00:04:53,670
-Chcete vidie, èo je vo vnútri?
+Chcete vidieÅ¥, Äo je vo vnÃºtri?
 
 101
 00:04:53,670 --> 00:04:59,540
-Myslím, e Emily vie viac,
-ne prezradila.
+MyslÃ­m, Å¾e Emily vie viac,
+neÅ¾ prezradila.
 
 102
 00:05:01,460 --> 00:05:06,380
-A mali by sme zisti pravdu ... o ...
+A mali by sme zistiÅ¥ pravdu ... o ...
 
 103
 00:05:12,120 --> 00:05:13,580
@@ -427,24 +427,24 @@ Au!
 
 104
 00:05:15,000 --> 00:05:17,500
-Èo sa to s tım stalo, do èerta?
+ÄŒo sa to s tÃ½m stalo, do Äerta?
 
 105
 00:05:19,620 --> 00:05:23,000
-Jasné.
+JasnÃ©.
 
 106
 00:05:23,000 --> 00:05:26,420
-Áno, myslím, e to nie sú rodinné fotografie.
+Ãno, myslÃ­m, Å¾e to nie sÃº rodinnÃ© fotografie.
 
 107
 00:05:26,420 --> 00:05:30,420
-Dobrá správa je, e poznám niekoho,
-kto to dokáe prelomi.
+DobrÃ¡ sprÃ¡va je, Å¾e poznÃ¡m niekoho,
+kto to dokÃ¡Å¾e prelomiÅ¥.
 
 108
 00:05:30,420 --> 00:05:32,330
-Ak sa vám to podarí, dajte mi vedie.
+Ak sa vÃ¡m to podarÃ­, dajte mi vedieÅ¥.
 
 109
 00:05:32,330 --> 00:05:34,000
@@ -456,15 +456,15 @@ Nikdy som to nevidela.
 
 111
 00:05:36,750 --> 00:05:38,500
-Hej. Vydrte.
+Hej. VydrÅ¾te.
 
 112
 00:05:38,500 --> 00:05:40,250
-Èo urobíte s tım robotom?
+ÄŒo urobÃ­te s tÃ½m robotom?
 
 113
 00:05:41,750 --> 00:05:44,580
-Dobre, to slovo pouíva nebudeme.
+Dobre, to slovo pouÅ¾Ã­vaÅ¥ nebudeme.
 
 114
 00:05:44,580 --> 00:05:46,580
@@ -472,96 +472,96 @@ Dobre. Fajn.
 
 115
 00:05:46,580 --> 00:05:49,000
-Èo urobíte s ... Piper?
+ÄŒo urobÃ­te s ... Piper?
 
 116
 00:05:49,000 --> 00:05:50,290
-Stále vám nedovolím s òou hovori,
+StÃ¡le vÃ¡m nedovolÃ­m s Åˆou hovoriÅ¥,
 
 117
 00:05:50,290 --> 00:05:51,580
-ak sa pıtate na to.
+ak sa pÃ½tate na to.
 
 118
 00:05:51,580 --> 00:05:53,960
-Vôbec nie. Pozrite, dajme
-moje osobné záujmy
+VÃ´bec nie. Pozrite, dajme
+moje osobnÃ© zÃ¡ujmy
 
 119
 00:05:53,960 --> 00:05:55,620
-na chví¾u bokom ...
+na chvÃ­Ä¾u bokom ...
 
 120
 00:05:55,620 --> 00:05:57,290
-musíte zvái svoje monosti, Jo.
+musÃ­te zvÃ¡Å¾iÅ¥ svoje moÅ¾nosti, Jo.
 
 121
 00:05:57,290 --> 00:05:59,460
-Jasné a èo navrhujete?
+JasnÃ© a Äo navrhujete?
 
 122
 00:05:59,460 --> 00:06:01,120
-Mala by som ju da na kraj chodníka
-v deò zberu odpadkov?
+Mala by som ju daÅ¥ na kraj chodnÃ­ka
+v deÅˆ zberu odpadkov?
 
 123
 00:06:03,080 --> 00:06:05,620
-Myslím, e Emily prišla
-s ve¾mi elegantnım riešením.
+MyslÃ­m, Å¾e Emily priÅ¡la
+s veÄ¾mi elegantnÃ½m rieÅ¡enÃ­m.
 
 124
 00:06:07,170 --> 00:06:08,170
-"Fatálna vınimoèná chyba."
+"FatÃ¡lna vÃ½nimoÄnÃ¡ chyba."
 
 125
 00:06:09,960 --> 00:06:11,710
-Poveda Piper, e je umelá inteligencia.
+PovedaÅ¥ Piper, Å¾e je umelÃ¡ inteligencia.
 
 126
 00:06:11,710 --> 00:06:12,830
-Problém je vyriešenı.
+ProblÃ©m je vyrieÅ¡enÃ½.
 
 127
 00:06:12,830 --> 00:06:14,210
-Nie. To neurobím.
+Nie. To neurobÃ­m.
 
 128
 00:06:14,210 --> 00:06:15,540
-Mohla by by nebezpeèná, Jo.
+Mohla by byÅ¥ nebezpeÄnÃ¡, Jo.
 
 129
 00:06:15,540 --> 00:06:16,790
-Nevieme, èo je zaè.
+Nevieme, Äo je zaÄ.
 
 130
 00:06:16,790 --> 00:06:18,580
-Áno, vieme. Je to kód.
+Ãno, vieme. Je to kÃ³d.
 
 131
 00:06:18,580 --> 00:06:20,830
-A pokia¾ sa nedozviete,
-e ten kód nie je nebezpeènı,
+A pokiaÄ¾ sa nedozviete,
+Å¾e ten kÃ³d nie je nebezpeÄnÃ½,
 
 132
 00:06:20,830 --> 00:06:22,580
-zaobchádzal by som s òou,
+zaobchÃ¡dzal by som s Åˆou,
 akoby bola.
 
 133
 00:06:28,790 --> 00:06:31,040
-Au! To bolí.
+Au! To bolÃ­.
 
 134
 00:06:31,040 --> 00:06:32,710
-Boe, nebolí to.
+BoÅ¾e, nebolÃ­ to.
 
 135
 00:06:32,710 --> 00:06:34,080
-Áno, bolí to!
+Ãno, bolÃ­ to!
 
 136
 00:06:34,080 --> 00:06:35,670
-Teraz máš vlasy také jemné.
+Teraz mÃ¡Å¡ vlasy takÃ© jemnÃ©.
 
 137
 00:06:35,670 --> 00:06:36,750
@@ -569,24 +569,24 @@ Naozaj?
 
 138
 00:06:36,750 --> 00:06:38,500
-Boe! Ty mi neveríš!
+BoÅ¾e! Ty mi neverÃ­Å¡!
 
 139
 00:06:39,540 --> 00:06:42,020
-Mia, èo keby si šla dolu
+Mia, Äo keby si Å¡la dolu
 a pohla si, dobre?
 
 140
 00:06:42,120 --> 00:06:44,210
-Kimovci a dnes odvezú do školy.
+Kimovci Å¥a dnes odvezÃº do Å¡koly.
 
 141
 00:06:44,210 --> 00:06:45,880
-Vyzeráš naozaj unavená, mami.
+VyzerÃ¡Å¡ naozaj unavenÃ¡, mami.
 
 142
 00:06:45,880 --> 00:06:48,080
-Vïaka, to je od teba milé.
+VÄaka, to je od teba milÃ©.
 
 143
 00:06:48,080 --> 00:06:49,620
@@ -594,11 +594,11 @@ Dolu.
 
 144
 00:06:50,790 --> 00:06:51,790
-Hneï, Mia.
+HneÄ, Mia.
 
 145
 00:06:53,040 --> 00:06:56,250
-Fíha, aká mrzutá.
+FÃ­ha, akÃ¡ mrzutÃ¡.
 
 146
 00:06:56,250 --> 00:06:58,080
@@ -610,23 +610,23 @@ Dobre.
 
 148
 00:07:19,670 --> 00:07:21,460
-Páèi sa mi, keï mám vlasy oèesané.
+PÃ¡Äi sa mi, keÄ mÃ¡m vlasy oÄesanÃ©.
 
 149
 00:07:24,540 --> 00:07:26,290
-Preèo?
+PreÄo?
 
 150
 00:07:26,290 --> 00:07:28,830
-Len sa cítim príjemne.
+Len sa cÃ­tim prÃ­jemne.
 
 151
 00:07:35,120 --> 00:07:37,120
-Si na mòa nahnevaná?
+Si na mÅˆa nahnevanÃ¡?
 
 152
 00:07:37,120 --> 00:07:38,580
-Èoe? Ako to myslíš?
+ÄŒoÅ¾e? Ako to myslÃ­Å¡?
 
 153
 00:07:38,580 --> 00:07:39,620
@@ -638,40 +638,40 @@ Len sa ...
 
 155
 00:07:41,500 --> 00:07:43,170
-zvyèajne viac usmievaš.
+zvyÄajne viac usmievaÅ¡.
 
 156
 00:07:45,080 --> 00:07:46,210
-Prepáè.
+PrepÃ¡Ä.
 
 157
 00:07:46,210 --> 00:07:49,750
-Áno, som len trochu unavená.
+Ãno, som len trochu unavenÃ¡.
 
 158
 00:07:49,750 --> 00:07:52,250
-Dokonèím to.
+DokonÄÃ­m to.
 
 159
 00:08:14,620 --> 00:08:16,960
-Prepáète, kto ste?
+PrepÃ¡Äte, kto ste?
 
 160
 00:08:16,960 --> 00:08:18,710
-Zostaòte v aute.
-Zostaòte vo vozidle.
+ZostaÅˆte v aute.
+ZostaÅˆte vo vozidle.
 
 161
 00:08:18,710 --> 00:08:20,210
-Polote ruky na volant.
+PoloÅ¾te ruky na volant.
 
 162
 00:08:20,210 --> 00:08:21,380
-Poèkajte ...
+PoÄkajte ...
 
 163
 00:08:21,380 --> 00:08:23,670
-Ruky na volant, hneï.
+Ruky na volant, hneÄ.
 
 164
 00:08:23,670 --> 00:08:25,420
@@ -679,37 +679,37 @@ Kto ste?
 
 165
 00:08:25,420 --> 00:08:27,880
-Som ...Lily Salgadová.
+Som ...Lily SalgadovÃ¡.
 
 166
 00:08:27,880 --> 00:08:29,750
-Sluby pre deti a rodiny.
+SluÅ¾by pre deti a rodiny.
 
 167
 00:08:31,170 --> 00:08:33,290
-V kabelke mám vizitku.
+V kabelke mÃ¡m vizitku.
 
 168
 00:08:33,290 --> 00:08:34,540
-Je v peòaenke s jednorocom.
+Je v peÅˆaÅ¾enke s jednoroÅ¾com.
 
 169
 00:08:34,540 --> 00:08:36,580
-Jasné.
+JasnÃ©.
 
 170
 00:08:36,580 --> 00:08:38,620
-Take zrejme som na vás
-urobila skvelı prvı dojem.
+TakÅ¾e zrejme som na vÃ¡s
+urobila skvelÃ½ prvÃ½ dojem.
 
 171
 00:08:40,000 --> 00:08:41,790
-Naozaj to nie je problém.
+Naozaj to nie je problÃ©m.
 
 172
 00:08:41,790 --> 00:08:44,710
-Áno, nepoznala som vás,
-ale zavolala som vášmu šéfovi
+Ãno, nepoznala som vÃ¡s,
+ale zavolala som vÃ¡Å¡mu Å¡Ã©fovi
 
 173
 00:08:44,710 --> 00:08:46,380
@@ -717,11 +717,11 @@ a teda viete,
 
 174
 00:08:46,380 --> 00:08:48,750
-zrejme ste, za koho sa vydávate.
+zrejme ste, za koho sa vydÃ¡vate.
 
 175
 00:08:48,750 --> 00:08:50,670
-Take ešte raz sa ospravedlòujem.
+TakÅ¾e eÅ¡te raz sa ospravedlÅˆujem.
 
 176
 00:08:50,670 --> 00:08:51,920
@@ -729,12 +729,12 @@ Naozaj je to v poriadku.
 
 177
 00:08:51,920 --> 00:08:54,540
-Bude to skvelı príbeh
-na "prvı tıdeò v práci".
+Bude to skvelÃ½ prÃ­beh
+na "prvÃ½ tÃ½Å¾deÅˆ v prÃ¡ci".
 
 178
 00:08:54,540 --> 00:08:57,080
-Je to váš prvı tıdeò?
+Je to vÃ¡Å¡ prvÃ½ tÃ½Å¾deÅˆ?
 
 179
 00:08:57,080 --> 00:08:58,290
@@ -742,7 +742,7 @@ To je ...
 
 180
 00:08:58,290 --> 00:08:59,580
-Páni.
+PÃ¡ni.
 
 181
 00:08:59,580 --> 00:09:02,000
@@ -750,22 +750,22 @@ Tak to naozaj gratulujem.
 
 182
 00:09:02,000 --> 00:09:06,920
-Kadopádne, práve som èítala èlánok
-o vás a ... Piper, je to správne?
+KaÅ¾dopÃ¡dne, prÃ¡ve som ÄÃ­tala ÄlÃ¡nok
+o vÃ¡s a ... Piper, je to sprÃ¡vne?
 
 183
 00:09:06,920 --> 00:09:09,040
-- Áno.
-- Neuverite¾né.
+- Ãno.
+- NeuveriteÄ¾nÃ©.
 
 184
 00:09:09,040 --> 00:09:11,670
-A také smutné, e obaja
-rodièia zomreli pri dopravnej nehode.
+A takÃ© smutnÃ©, Å¾e obaja
+rodiÄia zomreli pri dopravnej nehode.
 
 185
 00:09:13,290 --> 00:09:15,460
-Áno, bolo to skutoène tragické.
+Ãno, bolo to skutoÄne tragickÃ©.
 
 186
 00:09:15,460 --> 00:09:17,620
@@ -773,51 +773,51 @@ A potom ste si ju vzali domov?
 
 187
 00:09:17,620 --> 00:09:19,250
-Úasné.
+ÃšÅ¾asnÃ©.
 
 188
 00:09:19,250 --> 00:09:22,170
-Takto obyèajne veci nerobíme, samozrejme.
+Takto obyÄajne veci nerobÃ­me, samozrejme.
 
 189
 00:09:25,500 --> 00:09:28,210
-Nu, mala som obavy
-kvôli jej bezpeènosti.
+NuÅ¾, mala som obavy
+kvÃ´li jej bezpeÄnosti.
 
 190
 00:09:28,210 --> 00:09:29,330
-A stále mám.
+A stÃ¡le mÃ¡m.
 
 191
 00:09:29,330 --> 00:09:31,540
-Èo úplne rešpektujem.
+ÄŒo Ãºplne reÅ¡pektujem.
 
 192
 00:09:31,540 --> 00:09:33,960
-Myslela som, e by sme iba
-zaèali proces, otvorili prípad,
+Myslela som, Å¾e by sme iba
+zaÄali proces, otvorili prÃ­pad,
 
 193
 00:09:33,960 --> 00:09:36,460
-zoficiálnili záleitos a potom
-vás u nebudem otravova.
+zoficiÃ¡lnili zÃ¡leÅ¾itosÅ¥ a potom
+vÃ¡s uÅ¾ nebudem otravovaÅ¥.
 
 194
 00:09:36,460 --> 00:09:39,120
-Èo presne znamená ten proces?
+ÄŒo presne znamenÃ¡ ten proces?
 
 195
 00:09:39,120 --> 00:09:41,210
-Preverenie zázemia, financií,
+Preverenie zÃ¡zemia, financiÃ­,
 
 196
 00:09:41,210 --> 00:09:42,790
-samé nudné veci.
+samÃ© nudnÃ© veci.
 
 197
 00:09:42,790 --> 00:09:44,790
-Budem potrebova vypoèu
-vás a vašu rodinu
+Budem potrebovaÅ¥ vypoÄuÅ¥
+vÃ¡s a vaÅ¡u rodinu
 
 198
 00:09:44,790 --> 00:09:46,710
@@ -829,8 +829,8 @@ Iste. Samozrejme.
 
 200
 00:09:48,290 --> 00:09:51,460
-Vyzeráte trochu nervózne.
-Èo chápem.
+VyzerÃ¡te trochu nervÃ³zne.
+ÄŒo chÃ¡pem.
 
 201
 00:09:51,460 --> 00:09:53,620
@@ -838,24 +838,24 @@ Ale bude to v poriadku.
 
 202
 00:09:55,460 --> 00:09:59,790
-Viete, ani som sa vás nespıtala
-na najdôleitejšiu otázku,
+Viete, ani som sa vÃ¡s nespÃ½tala
+na najdÃ´leÅ¾itejÅ¡iu otÃ¡zku,
 
 203
 00:09:59,790 --> 00:10:02,830
-chcete si Piper osvoji natrvalo?
+chcete si Piper osvojiÅ¥ natrvalo?
 
 204
 00:10:02,830 --> 00:10:05,210
-Predpokladala som, e ste chceli.
+Predpokladala som, Å¾e ste chceli.
 
 205
 00:10:07,790 --> 00:10:10,710
-Prepáète ...
+PrepÃ¡Äte ...
 
 206
 00:10:10,710 --> 00:10:12,670
-To bude z práce, take budem ...
+To bude z prÃ¡ce, takÅ¾e budem ...
 
 207
 00:10:12,670 --> 00:10:14,620
@@ -863,20 +863,20 @@ Len ...
 
 208
 00:10:15,580 --> 00:10:17,040
-Haló?
+HalÃ³?
 
 209
 00:10:17,040 --> 00:10:18,830
-Poslal som po vás auto.
+Poslal som po vÃ¡s auto.
 
 210
 00:10:18,830 --> 00:10:21,250
-Vodiè je ve¾mi milı chlap.
-Ste s ním úplne v bezpeèí.
+VodiÄ je veÄ¾mi milÃ½ chlap.
+Ste s nÃ­m Ãºplne v bezpeÄÃ­.
 
 211
 00:10:24,750 --> 00:10:27,460
-Povedali by ste mi, s kım hovorím?
+Povedali by ste mi, s kÃ½m hovorÃ­m?
 
 212
 00:10:27,460 --> 00:10:29,250
@@ -884,12 +884,12 @@ Richard Kindred.
 
 213
 00:10:30,500 --> 00:10:33,120
-Myslím, e máte
-na mòa pár otázok.
+MyslÃ­m, Å¾e mÃ¡te
+na mÅˆa pÃ¡r otÃ¡zok.
 
 214
 00:10:42,080 --> 00:10:44,620
-Vitajte v najlepšej reštaurácii
+Vitajte v najlepÅ¡ej reÅ¡taurÃ¡cii
 s cestovinami v New Yorku.
 
 215
@@ -898,19 +898,19 @@ Sadnite si.
 
 216
 00:10:53,380 --> 00:10:56,210
-Myslím, e sme nezaèali najlepšie.
+MyslÃ­m, Å¾e sme nezaÄali najlepÅ¡ie.
 
 217
 00:10:56,210 --> 00:10:57,880
-Moja chyba, nie vaša.
+Moja chyba, nie vaÅ¡a.
 
 218
 00:10:57,880 --> 00:11:01,880
-Som ... prchkı.
+Som ... prchkÃ½.
 
 219
 00:11:01,880 --> 00:11:03,080
-Je to moja slabos.
+Je to moja slabosÅ¥.
 
 220
 00:11:03,080 --> 00:11:04,960
@@ -918,198 +918,198 @@ Pracujem na tom.
 
 221
 00:11:04,960 --> 00:11:08,670
-Tomu ani na chví¾u neverím, pán Kindred.
+Tomu ani na chvÃ­Ä¾u neverÃ­m, pÃ¡n Kindred.
 
 222
 00:11:08,670 --> 00:11:12,210
-Viete, moji príbuzní bıvali
-len za rohom odtia¾to.
+Viete, moji prÃ­buznÃ­ bÃ½vali
+len za rohom odtiaÄ¾to.
 
 223
 00:11:12,210 --> 00:11:14,330
-V tejto skvelej reštaurácii som kedysi pracoval,
+V tejto skvelej reÅ¡taurÃ¡cii som kedysi pracoval,
 
 224
 00:11:14,330 --> 00:11:17,330
-vzadu som umıval riady,
-iba za 3 doláre na hodinu.
+vzadu som umÃ½val riady,
+iba za 3 dolÃ¡re na hodinu.
 
 225
 00:11:17,330 --> 00:11:19,170
-A teraz ste majite¾om reštaurácie, tejto budovy
+A teraz ste majiteÄ¾om reÅ¡taurÃ¡cie, tejto budovy
 
 226
 00:11:19,170 --> 00:11:20,540
-a šiestich blokov po ceste k rieke.
+a Å¡iestich blokov po ceste k rieke.
 
 227
 00:11:22,250 --> 00:11:25,330
-Preèítala som si váš profil v èasopise.
+PreÄÃ­tala som si vÃ¡Å¡ profil v Äasopise.
 
 228
 00:11:25,330 --> 00:11:26,830
-Take prejdime k veci.
+TakÅ¾e prejdime k veci.
 
 229
 00:11:26,830 --> 00:11:28,540
-Vraveli ste, e máte
-pre mòa nejaké odpovede.
+Vraveli ste, Å¾e mÃ¡te
+pre mÅˆa nejakÃ© odpovede.
 
 230
 00:11:28,540 --> 00:11:30,790
-Som tu, aby som vám pomohol,
-velite¾ka Evansová.
+Som tu, aby som vÃ¡m pomohol,
+veliteÄ¾ka EvansovÃ¡.
 
 231
 00:11:30,790 --> 00:11:33,500
-A ja sa na to ve¾mi teším.
+A ja sa na to veÄ¾mi teÅ¡Ã­m.
 
 232
 00:11:33,500 --> 00:11:37,170
-Zdá sa, e ste dobrá pri h¾adaní
-vecí, ktoré som stratil.
+ZdÃ¡ sa, Å¾e ste dobrÃ¡ pri hÄ¾adanÃ­
+vecÃ­, ktorÃ© som stratil.
 
 233
 00:11:37,170 --> 00:11:41,120
-Nedávno som stratil
-jednu špeciálnu technológiu,
+NedÃ¡vno som stratil
+jednu Å¡peciÃ¡lnu technolÃ³giu,
 
 234
 00:11:41,120 --> 00:11:42,880
-ktorá by mohla by pre vás.
-nebezpeèná.
+ktorÃ¡ by mohla byÅ¥ pre vÃ¡s.
+nebezpeÄnÃ¡.
 
 235
 00:11:42,880 --> 00:11:46,000
-Vidíte, je to vtipné,
-vravíte, e chcete pomôc,
+VidÃ­te, je to vtipnÃ©,
+vravÃ­te, Å¾e chcete pomÃ´cÅ¥,
 
 236
 00:11:46,000 --> 00:11:47,920
-ale vlastne sa mi vyhráate.
+ale vlastne sa mi vyhrÃ¡Å¾ate.
 
 237
 00:11:47,920 --> 00:11:49,620
-Vôbec nie.
+VÃ´bec nie.
 
 238
 00:11:49,620 --> 00:11:51,380
-Môem vás toho zbavi.
+MÃ´Å¾em vÃ¡s toho zbaviÅ¥.
 
 239
 00:11:51,380 --> 00:11:53,000
-Nu, to je od vás naozaj ve¾korysé.
+NuÅ¾, to je od vÃ¡s naozaj veÄ¾korysÃ©.
 
 240
 00:11:53,000 --> 00:11:55,080
-A na to, e obaja vieme,
+AÅ¾ na to, Å¾e obaja vieme,
 
 241
 00:11:55,080 --> 00:11:57,750
-e ste sa u pokúsili vzia mi to.
+Å¾e ste sa uÅ¾ pokÃºsili vziaÅ¥ mi to.
 
 242
 00:11:57,750 --> 00:11:59,580
-A nemôete.
+A nemÃ´Å¾ete.
 
 243
 00:11:59,580 --> 00:12:01,420
-Pretoe kadı jeden èlovek,
+PretoÅ¾e kaÅ¾dÃ½ jeden Älovek,
 
 244
 00:12:01,420 --> 00:12:04,000
-ktorı sa ju pokúsil odvies, je màtvy.
+ktorÃ½ sa ju pokÃºsil odviesÅ¥, je mÅ•tvy.
 
 245
 00:12:04,000 --> 00:12:05,960
-To je ve¾mi dobrı argument.
+To je veÄ¾mi dobrÃ½ argument.
 
 246
 00:12:05,960 --> 00:12:08,330
-Je to vlastne aj môj argument.
+Je to vlastne aj mÃ´j argument.
 
 247
 00:12:08,330 --> 00:12:10,290
-Našli ste nieèo nebezpeèné
+NaÅ¡li ste nieÄo nebezpeÄnÃ©
 
 248
 00:12:10,290 --> 00:12:11,960
-a myslíte si, e to chápete.
+a myslÃ­te si, Å¾e to chÃ¡pete.
 
 249
 00:12:11,960 --> 00:12:14,420
-Pomôte mi to pochopi.
+PomÃ´Å¾te mi to pochopiÅ¥.
 
 250
 00:12:14,420 --> 00:12:17,210
-Ko¾ko z nej je toho naprogramovaného
-a ko¾ko je skutoèného?
+KoÄ¾ko z nej je toho naprogramovanÃ©ho
+a koÄ¾ko je skutoÄnÃ©ho?
 
 251
 00:12:17,210 --> 00:12:19,540
-Skutoèného?
+SkutoÄnÃ©ho?
 
 252
 00:12:19,540 --> 00:12:22,960
-Nu, to je otázka za
-bilión dolárov, nie?
+NuÅ¾, to je otÃ¡zka za
+biliÃ³n dolÃ¡rov, nie?
 
 253
 00:12:22,960 --> 00:12:25,540
-Vraveli ste, e mi odpoviete na otázky,
+Vraveli ste, Å¾e mi odpoviete na otÃ¡zky,
 tak odpovedajte.
 
 254
 00:12:25,540 --> 00:12:27,170
-Raz som èítal príbeh o rodine,
+Raz som ÄÃ­tal prÃ­beh o rodine,
 
 255
 00:12:27,170 --> 00:12:29,670
-ktorá vychovala šimpanza
-akoby to bolo ¾udské diea.
+ktorÃ¡ vychovala Å¡impanza
+akoby to bolo Ä¾udskÃ© dieÅ¥a.
 
 256
 00:12:29,670 --> 00:12:30,960
-Kàmili ho, šatili,
+KÅ•mili ho, Å¡atili,
 
 257
 00:12:30,960 --> 00:12:33,080
-zaobchádzali s ním, akoby
-bol súèas rodiny.
+zaobchÃ¡dzali s nÃ­m, akoby
+bol sÃºÄasÅ¥ rodiny.
 
 258
 00:12:33,080 --> 00:12:35,040
-Takmer nadobudli pocit, akoby to bol èlovek,
+Takmer nadobudli pocit, akoby to bol Älovek,
 
 259
 00:12:35,040 --> 00:12:37,670
-a do jedného hrozného dòa,
+aÅ¾ do jednÃ©ho hroznÃ©ho dÅˆa,
 
 260
 00:12:37,670 --> 00:12:40,330
-keï sa ukázalo ... e nebol.
+keÄ sa ukÃ¡zalo ... Å¾e nebol.
 
 261
 00:12:42,290 --> 00:12:44,620
-Nezamieòajte si svoje pocity
+NezamieÅˆajte si svoje pocity
 k veciam
 
 262
 00:12:44,620 --> 00:12:46,460
-za veci samotné.
+za veci samotnÃ©.
 
 263
 00:12:54,460 --> 00:12:57,580
-U vidím svoju chybu.
+UÅ¾ vidÃ­m svoju chybu.
 
 264
 00:12:57,580 --> 00:12:59,460
-Myslela som, e mi poskytnete
-nejaké odpovede,
+Myslela som, Å¾e mi poskytnete
+nejakÃ© odpovede,
 
 265
 00:12:59,460 --> 00:13:03,250
-ale iba ma oberáte o èas.
+ale iba ma oberÃ¡te o Äas.
 
 266
 00:13:03,250 --> 00:13:05,580
@@ -1117,29 +1117,29 @@ Vychutnajte si svoje cestoviny.
 
 267
 00:13:05,580 --> 00:13:08,040
-Yelp tvrdí, e sú nevıraznej chutia
-prevarené.
+Yelp tvrdÃ­, Å¾e sÃº nevÃ½raznej chutia
+prevarenÃ©.
 
 268
 00:13:10,250 --> 00:13:13,000
-Do jedného z mojich zariadení
-sa vèera veèer niekto vlámal.
+Do jednÃ©ho z mojich zariadenÃ­
+sa vÄera veÄer niekto vlÃ¡mal.
 
 269
 00:13:13,000 --> 00:13:16,120
-Poèuli ste u nieèo o tom na polícii?
+PoÄuli ste uÅ¾ nieÄo o tom na polÃ­cii?
 
 270
 00:13:16,120 --> 00:13:18,210
-Nepatrí to do mojej právomoci.
+NepatrÃ­ to do mojej prÃ¡vomoci.
 
 271
 00:13:18,210 --> 00:13:20,710
-Nu, èoskoro o tom zistím viac.
+NuÅ¾, Äoskoro o tom zistÃ­m viac.
 
 272
 00:13:20,710 --> 00:13:22,670
-Budem vás priebene informova.
+Budem vÃ¡s priebeÅ¾ne informovaÅ¥.
 
 273
 00:13:33,170 --> 00:13:34,380
@@ -1151,80 +1151,80 @@ Dvere.
 
 275
 00:13:39,460 --> 00:13:42,000
-Benny! Tak rada a opä vidím.
+Benny! Tak rada Å¥a opÃ¤Å¥ vidÃ­m.
 
 276
 00:13:42,000 --> 00:13:43,380
-Aké milé prekvapenie.
+AkÃ© milÃ© prekvapenie.
 
 277
 00:13:43,380 --> 00:13:44,790
-Tu máš, zajedz si.
+Tu mÃ¡Å¡, zajedz si.
 
 278
 00:13:44,790 --> 00:13:46,250
-Vïaka, April.
+VÄaka, April.
 
 279
 00:13:46,250 --> 00:13:49,080
-Take ...
+TakÅ¾e ...
 
 280
 00:13:49,080 --> 00:13:51,000
-toto ti robí problém?
+toto ti robÃ­ problÃ©m?
 
 281
 00:13:51,000 --> 00:13:53,120
-Áno. Zapieklo mi to laptop.
+Ãno. Zapieklo mi to laptop.
 
 282
 00:13:53,120 --> 00:13:55,290
-Zdá sa mi to prehnané. Èo je tam?
+ZdÃ¡ sa mi to prehnanÃ©. ÄŒo je tam?
 
 283
 00:13:55,290 --> 00:13:56,920
-Dúfal som, e mi to povieš ty.
+DÃºfal som, Å¾e mi to povieÅ¡ ty.
 
 284
 00:13:59,670 --> 00:14:01,790
-Zlatko, vieš,
+Zlatko, vieÅ¡,
 
 285
 00:14:01,790 --> 00:14:05,080
-u sa takımito vecami nezaoberám.
+uÅ¾ sa takÃ½mito vecami nezaoberÃ¡m.
 
 286
 00:14:05,080 --> 00:14:07,830
-Príliš ve¾ké riziko, nedostatoèná odmena.
+PrÃ­liÅ¡ veÄ¾kÃ© riziko, nedostatoÄnÃ¡ odmena.
 
 287
 00:14:07,830 --> 00:14:09,330
-Nedostatoèná odmena. No tak.
+NedostatoÄnÃ¡ odmena. No tak.
 
 288
 00:14:09,330 --> 00:14:10,830
-Nabúrala si sa do servera Lehman Brothers.
+NabÃºrala si sa do servera Lehman Brothers.
 
 289
 00:14:10,830 --> 00:14:12,210
-To bola jednorazová záleitos,
-raz za ivot.
+To bola jednorazovÃ¡ zÃ¡leÅ¾itosÅ¥,
+raz za Å¾ivot.
 
 290
 00:14:12,210 --> 00:14:13,670
-Áno, pre teba.
+Ãno, pre teba.
 
 291
 00:14:13,670 --> 00:14:15,750
-Ja som musela i s bratrancom dva roky,
+Ja som musela Å¾iÅ¥ s bratrancom dva roky,
 
 292
 00:14:15,750 --> 00:14:18,790
-keï banka zabrala jeho dom.
+keÄ banka zabrala jeho dom.
 
 293
 00:14:18,790 --> 00:14:20,670
-Poèula si u o Richardovi Kindredovi?
+PoÄula si uÅ¾ o Richardovi Kindredovi?
 
 294
 00:14:22,290 --> 00:14:25,210
@@ -1232,29 +1232,29 @@ Augur Industries.
 
 295
 00:14:26,880 --> 00:14:31,170
-Znièil všetko dobré a je
-otvorenı novım technológiám.
+ZniÄil vÅ¡etko dobrÃ© a je
+otvorenÃ½ novÃ½m technolÃ³giÃ¡m.
 
 296
 00:14:31,170 --> 00:14:33,880
-Bıvala si najlepšia, April.
+BÃ½vala si najlepÅ¡ia, April.
 
 297
 00:14:33,880 --> 00:14:35,670
-Som najlepšia.
+Som najlepÅ¡ia.
 
 298
 00:14:41,040 --> 00:14:42,790
-iadny dym.
-To je dobré znamenie.
+Å½iadny dym.
+To je dobrÃ© znamenie.
 
 299
 00:14:46,620 --> 00:14:48,580
-Take ... si dnu?
+TakÅ¾e ... si dnu?
 
 300
 00:14:53,170 --> 00:14:55,170
-Ïakujem, láska moja.
+Äakujem, lÃ¡ska moja.
 
 301
 00:14:56,210 --> 00:14:58,210
@@ -1262,104 +1262,104 @@ Len ...
 
 302
 00:14:58,210 --> 00:15:00,000
-si dám ešte trochu tej polievky.
+si dÃ¡m eÅ¡te trochu tej polievky.
 
 303
 00:15:05,250 --> 00:15:06,790
-Je skvelé, e velite¾ka Evansová
+Je skvelÃ©, Å¾e veliteÄ¾ka EvansovÃ¡
 
 304
 00:15:06,790 --> 00:15:07,790
-má vo vás takého pomocníka.
+mÃ¡ vo vÃ¡s takÃ©ho pomocnÃ­ka.
 
 305
 00:15:07,790 --> 00:15:10,750
-Rád som uitoènı.
+RÃ¡d som uÅ¾itoÄnÃ½.
 
 306
 00:15:10,750 --> 00:15:13,290
-Nikdy ma nebavilo i sám.
+Nikdy ma nebavilo Å¾iÅ¥ sÃ¡m.
 
 307
 00:15:13,290 --> 00:15:15,670
-Ale Jo na veèeru vdy príde.
+Ale Jo na veÄeru vÅ¾dy prÃ­de.
 
 308
 00:15:15,670 --> 00:15:18,290
-Áno, pretoe rodina je tu priorita.
+Ãno, pretoÅ¾e rodina je tu priorita.
 
 309
 00:15:18,290 --> 00:15:19,750
-To urèite vidím.
+To urÄite vidÃ­m.
 
 310
 00:15:21,120 --> 00:15:22,670
-Nasahovali ste sa sem po
+NasÅ¥ahovali ste sa sem po
 rozvode Jo?
 
 311
 00:15:22,670 --> 00:15:23,830
-Nie, nie. Predtım.
+Nie, nie. PredtÃ½m.
 
 312
 00:15:23,830 --> 00:15:25,040
-Preèo?
+PreÄo?
 
 313
 00:15:28,080 --> 00:15:29,880
-Mal som zdravotné problémy.
+Mal som zdravotnÃ© problÃ©my.
 
 314
 00:15:29,880 --> 00:15:31,210
-Ako ste na tom so zdravím teraz?
+Ako ste na tom so zdravÃ­m teraz?
 
 315
 00:15:31,210 --> 00:15:32,500
-Je to dobré. Cítim sa fajn.
+Je to dobrÃ©. CÃ­tim sa fajn.
 
 316
 00:15:32,500 --> 00:15:34,250
-Áno.
+Ãno.
 
 317
 00:15:34,250 --> 00:15:36,670
-A èo tak obed?
+A Äo tak obed?
 
 318
 00:15:36,670 --> 00:15:38,330
-U som takmer hotová, ïakujem.
+UÅ¾ som takmer hotovÃ¡, Äakujem.
 
 319
 00:15:38,330 --> 00:15:40,290
-Vie matka Jo o tom, èo sa deje?
+Vie matka Jo o tom, Äo sa deje?
 
 320
 00:15:40,290 --> 00:15:43,580
-Nie. U roky sa tu nezdriava.
+Nie. UÅ¾ roky sa tu nezdrÅ¾iava.
 
 321
 00:15:43,580 --> 00:15:46,380
-Odišla, keï mala Jo 12 rokov.
+OdiÅ¡la, keÄ mala Jo 12 rokov.
 
 322
 00:15:46,380 --> 00:15:47,960
-To muselo by pre vás aké.
+To muselo byÅ¥ pre vÃ¡s Å¥aÅ¾kÃ©.
 
 323
 00:15:47,960 --> 00:15:49,790
-A pre òu.
+A pre Åˆu.
 
 324
 00:15:49,790 --> 00:15:52,000
-Bral som to ako samozrejmos.
+Bral som to ako samozrejmosÅ¥.
 
 325
 00:15:52,000 --> 00:15:53,880
-Dávna história.
+DÃ¡vna histÃ³ria.
 
 326
 00:15:53,880 --> 00:15:55,540
-Áno. Vydrali ste to.
+Ãno. VydrÅ¾ali ste to.
 
 327
 00:16:01,080 --> 00:16:02,120
@@ -1367,23 +1367,23 @@ Hej, Chris.
 
 328
 00:16:03,290 --> 00:16:04,620
-Urobte mi láskavos.
+Urobte mi lÃ¡skavosÅ¥.
 
 329
 00:16:04,620 --> 00:16:06,380
-Oslovte newyorskú políciu,
+Oslovte newyorskÃº polÃ­ciu,
 
 330
 00:16:06,380 --> 00:16:08,080
-èi nevyšetrujú nejaké vniknutie
+Äi nevyÅ¡etrujÃº nejakÃ© vniknutie
 
 331
 00:16:08,080 --> 00:16:09,750
-do nejakého zariadenia Augur.
+do nejakÃ©ho zariadenia Augur.
 
 332
 00:16:09,750 --> 00:16:11,880
-- Neoficiálne.
+- NeoficiÃ¡lne.
 - Augur. Iste. Idem na to.
 
 333
@@ -1392,7 +1392,7 @@ Dobre. Hej.
 
 334
 00:16:13,210 --> 00:16:16,540
-Máte tušenie, kto je toto?
+MÃ¡te tuÅ¡enie, kto je toto?
 
 335
 00:16:23,380 --> 00:16:25,040
@@ -1400,47 +1400,47 @@ Emily.
 
 336
 00:16:27,040 --> 00:16:28,580
-Èo tu robíte?
+ÄŒo tu robÃ­te?
 
 337
 00:16:28,580 --> 00:16:30,380
-Nu, napadlo mi, e sa nabúram do
-databázy southoldskej polície
+NuÅ¾, napadlo mi, Å¾e sa nabÃºram do
+databÃ¡zy southoldskej polÃ­cie
 
 338
 00:16:30,380 --> 00:16:32,710
-a vymaem záznamy za obdobie
-dvoch desaroèí.
+a vymaÅ¾em zÃ¡znamy za obdobie
+dvoch desaÅ¥roÄÃ­.
 
 339
 00:16:32,710 --> 00:16:35,040
-Alebo mi vrátite ten disk,
-èo ste mi ukradli.
+Alebo mi vrÃ¡tite ten disk,
+Äo ste mi ukradli.
 
 340
 00:16:35,040 --> 00:16:37,120
-- Èo si vyberiete?
-- Ja váš disk nemám.
+- ÄŒo si vyberiete?
+- Ja vÃ¡Å¡ disk nemÃ¡m.
 
 341
 00:16:37,120 --> 00:16:39,290
-Vaša databáza je staršia, ne Atari.
+VaÅ¡a databÃ¡za je starÅ¡ia, neÅ¾ Atari.
 
 342
 00:16:39,290 --> 00:16:41,250
-Bezpeènostná záplata je z 90. rokov.
+BezpeÄnostnÃ¡ zÃ¡plata je z 90. rokov.
 
 343
 00:16:41,250 --> 00:16:42,830
-Je to nevratné vymazanie ...
+Je to nevratnÃ© vymazanie ...
 
 344
 00:16:42,830 --> 00:16:44,080
-Len sa upokojte, prosím, a ...
+Len sa upokojte, prosÃ­m, a ...
 
 345
 00:16:44,080 --> 00:16:45,210
-Nie, neupokojím sa.
+Nie, neupokojÃ­m sa.
 
 346
 00:16:45,210 --> 00:16:46,830
@@ -1448,16 +1448,16 @@ To bola moja poistka.
 
 347
 00:16:46,830 --> 00:16:48,790
-Dobre. To je jediná vec,
-ktorá ma môe udra naive.
+Dobre. To je jedinÃ¡ vec,
+ktorÃ¡ ma mÃ´Å¾e udrÅ¾aÅ¥ naÅ¾ive.
 
 348
 00:16:48,790 --> 00:16:50,380
-Èo bolo na tom disku?
+ÄŒo bolo na tom disku?
 
 349
 00:16:50,380 --> 00:16:52,460
-Neviem. Ešte som ho nedešifrovala.
+Neviem. EÅ¡te som ho nedeÅ¡ifrovala.
 
 350
 00:16:52,460 --> 00:16:54,170
@@ -1465,7 +1465,7 @@ Ale nechcel, aby to niekto videl.
 
 351
 00:16:54,170 --> 00:16:55,210
-A chápem to.
+A chÃ¡pem to.
 
 352
 00:16:55,210 --> 00:16:58,000
@@ -1477,36 +1477,36 @@ Ukradli ste to Kindredovi.
 
 354
 00:16:59,380 --> 00:17:03,120
-Dobre, take najprv dáme zbohom desaroèiam.
+Dobre, takÅ¾e najprv dÃ¡me zbohom desaÅ¥roÄiam.
 
 355
 00:17:03,120 --> 00:17:06,250
-Emily ... poèúvajte ma.
+Emily ... poÄÃºvajte ma.
 
 356
 00:17:06,250 --> 00:17:08,830
-Musíte by v tomto chytrá, jasné?
+MusÃ­te byÅ¥ v tomto chytrÃ¡, jasnÃ©?
 
 357
 00:17:08,830 --> 00:17:10,330
-Ak chcete páku,
+Ak chcete pÃ¡ku,
 
 358
 00:17:10,330 --> 00:17:11,250
-poïme zisti, èo je na tom disku.
+poÄme zistiÅ¥, Äo je na tom disku.
 
 359
 00:17:11,250 --> 00:17:13,670
-Nemôete.
-Nikto to nemôe okrem mòa.
+NemÃ´Å¾ete.
+Nikto to nemÃ´Å¾e okrem mÅˆa.
 
 360
 00:17:13,670 --> 00:17:15,710
-Tak nám pomôte.
+Tak nÃ¡m pomÃ´Å¾te.
 
 361
 00:17:15,710 --> 00:17:17,290
-A dovo¾te nám zabezpeèi vám ochranu.
+A dovoÄ¾te nÃ¡m zabezpeÄiÅ¥ vÃ¡m ochranu.
 
 362
 00:17:19,880 --> 00:17:21,290
@@ -1514,32 +1514,32 @@ Dobre.
 
 363
 00:17:21,290 --> 00:17:24,170
-Áno.
+Ãno.
 
 364
 00:17:24,170 --> 00:17:25,620
-Take sa iba porozprávame
+TakÅ¾e sa iba porozprÃ¡vame
 
 365
 00:17:25,620 --> 00:17:27,000
-a ja zaznamenám, èo povieme,
+a ja zaznamenÃ¡m, Äo povieme,
 
 366
 00:17:27,000 --> 00:17:28,170
-pretoe mám hroznú pamä.
+pretoÅ¾e mÃ¡m hroznÃº pamÃ¤Å¥.
 
 367
 00:17:28,170 --> 00:17:29,330
-O èom sa porozprávame?
+O Äom sa porozprÃ¡vame?
 
 368
 00:17:29,330 --> 00:17:31,420
-Nu, prišla som sa uisti,
+NuÅ¾, priÅ¡la som sa uistiÅ¥,
 
 369
 00:17:31,420 --> 00:17:34,540
-e si v bezpeèí a šastná
-a je o teba postarané.
+Å¾e si v bezpeÄÃ­ a Å¡Å¥astnÃ¡
+a je o teba postaranÃ©.
 
 370
 00:17:34,540 --> 00:17:35,960
@@ -1547,50 +1547,50 @@ Som.
 
 371
 00:17:35,960 --> 00:17:37,670
-Tak to bude úplne ¾ahké.
+Tak to bude Ãºplne Ä¾ahkÃ©.
 
 372
 00:17:37,670 --> 00:17:39,120
-Mám len pár otázok.
+MÃ¡m len pÃ¡r otÃ¡zok.
 
 373
 00:17:39,120 --> 00:17:41,540
-Kto to bude poèúva?
+Kto to bude poÄÃºvaÅ¥?
 
 374
 00:17:41,540 --> 00:17:43,790
-Ja a mono môj šéf.
+Ja a moÅ¾no mÃ´j Å¡Ã©f.
 
 375
 00:17:43,790 --> 00:17:45,790
-Preèo?
+PreÄo?
 
 376
 00:17:45,790 --> 00:17:48,330
-Aby sme mohli rozhodnú,
-èo je pre teba najlepšie.
+Aby sme mohli rozhodnÃºÅ¥,
+Äo je pre teba najlepÅ¡ie.
 
 377
 00:17:48,330 --> 00:17:50,420
-Èo tım myslíte?
+ÄŒo tÃ½m myslÃ­te?
 
 378
 00:17:50,420 --> 00:17:52,330
-Nu...
+NuÅ¾...
 
 379
 00:17:52,330 --> 00:17:54,830
-niekedy sú tieto situácie aké.
+niekedy sÃº tieto situÃ¡cie Å¥aÅ¾kÃ©.
 
 380
 00:17:54,830 --> 00:17:57,710
-Deti nie sú šastné,
-alebo rodiny nie sú šastné,
+Deti nie sÃº Å¡Å¥astnÃ©,
+alebo rodiny nie sÃº Å¡Å¥astnÃ©,
 
 381
 00:17:57,710 --> 00:18:00,120
-tak by sme sa pokúsili nájs
-im lepšie miesto.
+tak by sme sa pokÃºsili nÃ¡jsÅ¥
+im lepÅ¡ie miesto.
 
 382
 00:18:00,120 --> 00:18:01,830
@@ -1602,67 +1602,67 @@ Nie, nie, to rozhodne nie.
 
 384
 00:18:03,880 --> 00:18:05,830
-A naozaj si nemyslím, e by sa to stalo.
+A naozaj si nemyslÃ­m, Å¾e by sa to stalo.
 
 385
 00:18:05,830 --> 00:18:07,380
-Prosím, nenúte ma ís niekde inde.
+ProsÃ­m, nenÃºÅ¥te ma Ã­sÅ¥ niekde inde.
 
 386
 00:18:07,380 --> 00:18:09,000
-Páèi sa mi bıva tu.
+PÃ¡Äi sa mi bÃ½vaÅ¥ tu.
 
 387
 00:18:09,000 --> 00:18:10,750
-Tak mi mono o tom povedz,
-preèo sa ti to páèi.
+Tak mi moÅ¾no o tom povedz,
+preÄo sa ti to pÃ¡Äi.
 
 388
 00:18:10,750 --> 00:18:11,710
-Tvoje ob¾úbené veci.
+Tvoje obÄ¾ÃºbenÃ© veci.
 
 389
 00:18:11,710 --> 00:18:13,620
-- Chcem tu zosta.
+- Chcem tu zostaÅ¥.
 - Viem.
 
 390
 00:18:13,620 --> 00:18:15,500
-A nepotrvá to ve¾mi dlho, to mi ver.
+A nepotrvÃ¡ to veÄ¾mi dlho, to mi ver.
 
 391
 00:18:15,500 --> 00:18:16,920
-Povedz mi mono nieèo o Jo.
+Povedz mi moÅ¾no nieÄo o Jo.
 
 392
 00:18:16,920 --> 00:18:18,500
-Povedala som, èo som chcela poveda.
+Povedala som, Äo som chcela povedaÅ¥.
 
 393
 00:18:24,170 --> 00:18:25,750
-Boe.
+BoÅ¾e.
 
 394
 00:18:25,750 --> 00:18:27,250
-Je mi to tak ¾úto.
+Je mi to tak Ä¾Ãºto.
 
 395
 00:18:27,250 --> 00:18:30,290
-Nechaj, postarám sa o to.
+Nechaj, postarÃ¡m sa o to.
 
 396
 00:18:39,500 --> 00:18:41,170
-Zdravím, Daphne vravela,
-e mám prís za vami?
+ZdravÃ­m, Daphne vravela,
+Å¾e mÃ¡m prÃ­sÅ¥ za vami?
 
 397
 00:18:41,170 --> 00:18:42,500
-Áno. Poïte dnu.
+Ãno. PoÄte dnu.
 
 398
 00:18:42,500 --> 00:18:45,290
 Kto je ten chlap?
-Vyzerá mlado.
+VyzerÃ¡ mlado.
 
 399
 00:18:45,290 --> 00:18:47,830
@@ -1670,12 +1670,12 @@ Emily kedysi pracovala pre Augur Industries.
 
 400
 00:18:47,830 --> 00:18:50,330
-Teraz s nami spolupracuje pri vyšetrovaní
+Teraz s nami spolupracuje pri vyÅ¡etrovanÃ­
 
 401
 00:18:50,330 --> 00:18:54,500
-havárie lietadla aj
-vrady Kena Lernera.
+havÃ¡rie lietadla aj
+vraÅ¾dy Kena Lernera.
 
 402
 00:18:54,500 --> 00:18:56,380
@@ -1683,82 +1683,82 @@ Dobre.
 
 403
 00:18:56,380 --> 00:19:00,710
-Take k nej musíme pristupova,
+TakÅ¾e k nej musÃ­me pristupovaÅ¥,
 akoby tu nebola.
 
 404
 00:19:00,710 --> 00:19:02,210
-Èítate mi myšlienky.
+ÄŒÃ­tate mi myÅ¡lienky.
 
 405
 00:19:02,210 --> 00:19:04,580
-Nie úplne, akoby som neexistovala.
+Nie Ãºplne, akoby som neexistovala.
 
 406
 00:19:04,580 --> 00:19:07,040
-Potrebujem širokopásmovı 4G signál.
+Potrebujem Å¡irokopÃ¡smovÃ½ 4G signÃ¡l.
 
 407
 00:19:07,040 --> 00:19:09,120
-A izbovú slubu.
+A izbovÃº sluÅ¾bu.
 
 408
 00:19:09,120 --> 00:19:13,290
-A ideálny vıh¾ad. Na mesto, nie na vodu.
+A ideÃ¡lny vÃ½hÄ¾ad. Na mesto, nie na vodu.
 
 409
 00:19:15,580 --> 00:19:18,710
-Jasné. Nie, myslím, e poznám
-ideálne miesto.
+JasnÃ©. Nie, myslÃ­m, Å¾e poznÃ¡m
+ideÃ¡lne miesto.
 
 410
 00:19:22,710 --> 00:19:26,750
-Je mi to ¾úto. Trvalo to ove¾a dlhšie,
-ako som èakala.
+Je mi to Ä¾Ãºto. Trvalo to oveÄ¾a dlhÅ¡ie,
+ako som Äakala.
 
 411
 00:19:26,750 --> 00:19:28,250
-Èo sa stalo?
+ÄŒo sa stalo?
 
 412
 00:19:28,250 --> 00:19:30,710
-Mali sme menšiu technickú závadu.
+Mali sme menÅ¡iu technickÃº zÃ¡vadu.
 
 413
 00:19:30,710 --> 00:19:34,750
-Batéria v mojom mobile proste
-vybuchla, alebo èo.
+BatÃ©ria v mojom mobile proste
+vybuchla, alebo Äo.
 
 414
 00:19:34,750 --> 00:19:36,710
-Poèúvate o tom, ale nikdy
-vám nenapadne, e sa to stane vám.
+PoÄÃºvate o tom, ale nikdy
+vÃ¡m nenapadne, Å¾e sa to stane vÃ¡m.
 
 415
 00:19:36,710 --> 00:19:38,210
-Fíha.
+FÃ­ha.
 
 416
 00:19:38,210 --> 00:19:40,620
-Povedzte Piper, e je mi to ¾úto.
+Povedzte Piper, Å¾e je mi to Ä¾Ãºto.
 
 417
 00:19:40,620 --> 00:19:42,830
-Náš rozhovor dokonèíme zajtra.
+NÃ¡Å¡ rozhovor dokonÄÃ­me zajtra.
 
 418
 00:19:42,830 --> 00:19:45,210
-Naozaj by som sa cítil lepšie, keby ste mi
-dovolili odviez vás.
+Naozaj by som sa cÃ­til lepÅ¡ie, keby ste mi
+dovolili odviezÅ¥ vÃ¡s.
 
 419
 00:19:45,210 --> 00:19:46,960
 Naozaj je to v poriadku.
-Váš rıchloobväz je úasnı.
+VÃ¡Å¡ rÃ½chloobvÃ¤z je ÃºÅ¾asnÃ½.
 
 420
 00:19:46,960 --> 00:19:49,790
-Uvidíme sa zajtra.
+UvidÃ­me sa zajtra.
 
 421
 00:20:00,880 --> 00:20:02,670
@@ -1766,8 +1766,8 @@ Piper?
 
 422
 00:20:07,250 --> 00:20:08,830
-Piper, èo sa stalo
-s jej telefónom?
+Piper, Äo sa stalo
+s jej telefÃ³nom?
 
 423
 00:20:10,080 --> 00:20:11,790
@@ -1775,8 +1775,8 @@ Neviem.
 
 424
 00:20:14,120 --> 00:20:16,210
-Piper, èo sa stalo
-s jej telefónom?
+Piper, Äo sa stalo
+s jej telefÃ³nom?
 
 425
 00:20:16,210 --> 00:20:18,210
@@ -1788,11 +1788,11 @@ Urobila si to ty?
 
 427
 00:20:25,460 --> 00:20:27,790
-Mrzí ma to.
+MrzÃ­ ma to.
 
 428
 00:20:27,790 --> 00:20:29,120
-Prosím, nehnevaj sa.
+ProsÃ­m, nehnevaj sa.
 
 429
 00:20:32,210 --> 00:20:33,920
@@ -1801,19 +1801,19 @@ Ahoj!
 
 430
 00:20:35,420 --> 00:20:37,710
-Dnes sme mali obèerstvenie v Advisory
+Dnes sme mali obÄerstvenie v Advisory
 
 431
 00:20:37,710 --> 00:20:39,330
-a priniesla som nieèo navyše pre teba.
+a priniesla som nieÄo navyÅ¡e pre teba.
 
 432
 00:20:39,330 --> 00:20:40,460
-Nie, vïaka.
+Nie, vÄaka.
 
 433
 00:20:40,460 --> 00:20:42,210
-Pôjdem do svojej izby.
+PÃ´jdem do svojej izby.
 
 434
 00:20:46,080 --> 00:20:47,750
@@ -1821,33 +1821,33 @@ Je v poriadku?
 
 435
 00:20:47,750 --> 00:20:49,710
-Áno, je ...
+Ãno, je ...
 
 436
 00:20:49,710 --> 00:20:52,080
-Èo keby si si šla urobi
-domácu úlohu, dobre?
+ÄŒo keby si si Å¡la urobiÅ¥
+domÃ¡cu Ãºlohu, dobre?
 
 437
 00:20:54,500 --> 00:20:55,790
-Dokázal som to.
+DokÃ¡zal som to.
 
 438
 00:20:55,790 --> 00:20:57,040
-A èo?
+A Äo?
 
 439
 00:20:57,040 --> 00:20:58,500
-Prišiel som na tvoj malı kód
+PriÅ¡iel som na tvoj malÃ½ kÃ³d
 
 440
 00:20:58,500 --> 00:21:00,250
-z tej tvojej rádiovej frekvencie,
-ktorú si poèúvala.
+z tej tvojej rÃ¡diovej frekvencie,
+ktorÃº si poÄÃºvala.
 
 441
 00:21:00,250 --> 00:21:01,420
-Robíš si srandu.
+RobÃ­Å¡ si srandu.
 
 442
 00:21:01,420 --> 00:21:03,750
@@ -1856,15 +1856,15 @@ do obrazu.
 
 443
 00:21:03,750 --> 00:21:06,250
-A potom ... zásah.
+A potom ... zÃ¡sah.
 
 444
 00:21:06,250 --> 00:21:09,170
-Skontroluj to. Sú to súradnice.
+Skontroluj to. SÃº to sÃºradnice.
 
 445
 00:21:09,170 --> 00:21:13,000
-Nieèo s názvom Military Grid
+NieÄo s nÃ¡zvom Military Grid
 Reference System.
 
 446
@@ -1873,19 +1873,19 @@ Kde je to?
 
 447
 00:21:14,460 --> 00:21:16,080
-Pusté územie asi hodinu odtia¾to.
+PustÃ© Ãºzemie asi hodinu odtiaÄ¾to.
 
 448
 00:21:16,080 --> 00:21:17,420
-Blízko Plainview.
+BlÃ­zko Plainview.
 
 449
 00:21:17,420 --> 00:21:20,120
-Poèkaj chví¾u. Nie. Nie.
+PoÄkaj chvÃ­Ä¾u. Nie. Nie.
 
 450
 00:21:20,120 --> 00:21:21,170
-Uvauješ, e tam hneï pôjdeš?
+UvaÅ¾ujeÅ¡, Å¾e tam hneÄ pÃ´jdeÅ¡?
 
 451
 00:21:21,170 --> 00:21:22,500
@@ -1893,98 +1893,98 @@ Naozaj?
 
 452
 00:21:22,500 --> 00:21:23,710
-Myslím, e je to miesto,
+MyslÃ­m, Å¾e je to miesto,
 
 453
 00:21:23,710 --> 00:21:25,170
-kam malo namierené to lietadlo,
-keï havarovalo.
+kam malo namierenÃ© to lietadlo,
+keÄ havarovalo.
 
 454
 00:21:25,170 --> 00:21:27,540
-Tam šla Piper.
+Tam Å¡la Piper.
 
 455
 00:21:27,540 --> 00:21:30,380
-Je okolo nej to¾ko neznámeho.
+Je okolo nej toÄ¾ko neznÃ¡meho.
 
 456
 00:21:30,380 --> 00:21:33,210
-Mono tam nájdem odpovede.
+MoÅ¾no tam nÃ¡jdem odpovede.
 
 457
 00:21:36,290 --> 00:21:38,420
-Èo je to ...Gallant?
+ÄŒo je to ...Gallant?
 
 458
 00:21:38,420 --> 00:21:41,670
-Podávanie správ o spotrebite¾skıch úveroch ...
-alebo správa údajov.
+PodÃ¡vanie sprÃ¡v o spotrebiteÄ¾skÃ½ch Ãºveroch ...
+alebo sprÃ¡va Ãºdajov.
 
 459
 00:21:41,670 --> 00:21:43,500
-Netuším.
+NetuÅ¡Ã­m.
 
 460
 00:21:43,500 --> 00:21:44,710
-Tak preèo sme tu?
+Tak preÄo sme tu?
 
 461
 00:21:44,710 --> 00:21:47,880
-Pretoe tie tvoje súbory
+PretoÅ¾e tie tvoje sÃºbory
 
 462
 00:21:47,880 --> 00:21:52,120
-majú šifrovanie AES 256.
+majÃº Å¡ifrovanie AES 256.
 
 463
 00:21:52,120 --> 00:21:56,460
-Zamestnávam všetky poèítaèe
-v tejto budove, aby nám pomohli.
+ZamestnÃ¡vam vÅ¡etky poÄÃ­taÄe
+v tejto budove, aby nÃ¡m pomohli.
 
 464
 00:21:56,460 --> 00:21:58,960
-Je to ako náš osobnı superpoèítaè.
+Je to ako nÃ¡Å¡ osobnÃ½ superpoÄÃ­taÄ.
 
 465
 00:21:58,960 --> 00:22:00,710
-To je úplne geniálne.
+To je Ãºplne geniÃ¡lne.
 
 466
 00:22:00,710 --> 00:22:02,380
-Áno, pokia¾ nás nechytia.
+Ãno, pokiaÄ¾ nÃ¡s nechytia.
 
 467
 00:22:04,750 --> 00:22:06,250
-Vieš, je to u dos dávno,
+VieÅ¡, je to uÅ¾ dosÅ¥ dÃ¡vno,
 
 468
 00:22:06,250 --> 00:22:08,960
-èo a trápilo dolapenie.
+Äo Å¥a trÃ¡pilo dolapenie.
 
 469
 00:22:08,960 --> 00:22:10,120
-Èo je na tomto také dôleité?
+ÄŒo je na tomto takÃ© dÃ´leÅ¾itÃ©?
 
 470
 00:22:11,960 --> 00:22:15,000
-Mono sa snaím niekomu pomôc.
+MoÅ¾no sa snaÅ¾Ã­m niekomu pomÃ´cÅ¥.
 
 471
 00:22:16,330 --> 00:22:17,960
-Teraz viem, e klameš.
+Teraz viem, Å¾e klameÅ¡.
 
 472
 00:22:20,929 --> 00:22:23,229
-Viem, kam malo namierené to lietadlo.
+Viem, kam malo namierenÃ© to lietadlo.
 
 473
 00:22:23,420 --> 00:22:26,080
-Prepáè, ale myslím ...
+PrepÃ¡Ä, ale myslÃ­m ...
 
 474
 00:22:26,080 --> 00:22:27,420
-Musím ís.
+MusÃ­m Ã­sÅ¥.
 
 475
 00:22:30,580 --> 00:22:32,080
@@ -1996,27 +1996,27 @@ Piper?
 
 477
 00:23:46,830 --> 00:23:49,880
-Nu, sme oficiálne v utajení.
+NuÅ¾, sme oficiÃ¡lne v utajenÃ­.
 
 478
 00:23:51,670 --> 00:23:53,670
-Dúfam, e ste zanechávali omrvinky.
+DÃºfam, Å¾e ste zanechÃ¡vali omrvinky.
 
 479
 00:23:53,670 --> 00:23:56,920
-Vôbec netuším, ako sa vráti spä.
+VÃ´bec netuÅ¡Ã­m, ako sa vrÃ¡tiÅ¥ spÃ¤Å¥.
 
 480
 00:23:56,920 --> 00:23:58,120
-Nevrátime sa,
+NevrÃ¡time sa,
 
 481
 00:23:58,120 --> 00:23:59,880
-pokia¾ nezistíme, èo je vo vnútri.
+pokiaÄ¾ nezistÃ­me, Äo je vo vnÃºtri.
 
 482
 00:24:12,040 --> 00:24:13,170
-Poèkajte tu.
+PoÄkajte tu.
 
 483
 00:24:17,500 --> 00:24:19,420
@@ -2024,7 +2024,7 @@ Hej.
 
 484
 00:24:19,420 --> 00:24:21,670
-Kam vedie tá cesta?
+Kam vedie tÃ¡ cesta?
 
 485
 00:24:21,670 --> 00:24:23,830
@@ -2032,27 +2032,27 @@ Nie je to cesta.
 
 486
 00:24:23,830 --> 00:24:25,750
-Je to pristávacia dráha.
+Je to pristÃ¡vacia drÃ¡ha.
 
 487
 00:25:34,830 --> 00:25:36,830
-Èo je to za miesto?
+ÄŒo je to za miesto?
 
 488
 00:25:40,250 --> 00:25:42,080
-Myslím, e toto bol domov Piper.
+MyslÃ­m, Å¾e toto bol domov Piper.
 
 489
 00:25:59,170 --> 00:26:00,880
-Utekáš?
+UtekÃ¡Å¡?
 
 490
 00:26:00,880 --> 00:26:02,540
-Mono.
+MoÅ¾no.
 
 491
 00:26:02,540 --> 00:26:05,290
-Ušla si len tri bloky.
+UÅ¡la si len tri bloky.
 
 492
 00:26:05,290 --> 00:26:07,830
@@ -2060,7 +2060,7 @@ Unavila som sa.
 
 493
 00:26:16,830 --> 00:26:18,620
-Môeš si to necha.
+MÃ´Å¾eÅ¡ si to nechaÅ¥.
 
 494
 00:26:18,620 --> 00:26:20,380
@@ -2068,11 +2068,11 @@ Je to tvoje.
 
 495
 00:26:20,380 --> 00:26:22,620
-Tu máš.
+Tu mÃ¡Å¡.
 
 496
 00:26:22,620 --> 00:26:25,620
-A mama nedovolí, aby a Lily odviedla.
+A mama nedovolÃ­, aby Å¥a Lily odviedla.
 
 497
 00:26:25,620 --> 00:26:27,380
@@ -2080,29 +2080,29 @@ Neviem.
 
 498
 00:26:27,380 --> 00:26:28,750
-Je na mòa dos naštvaná.
+Je na mÅˆa dosÅ¥ naÅ¡tvanÃ¡.
 
 499
 00:26:28,750 --> 00:26:31,620
-Nu, na tom nezáleí.
-Teraz patríš k našej rodine.
+NuÅ¾, na tom nezÃ¡leÅ¾Ã­.
+Teraz patrÃ­Å¡ k naÅ¡ej rodine.
 
 500
 00:26:31,620 --> 00:26:34,460
-Nemôeš odís.
-Rodiny dria pohromade.
+NemÃ´Å¾eÅ¡ odÃ­sÅ¥.
+Rodiny drÅ¾ia pohromade.
 
 501
 00:26:34,460 --> 00:26:37,000
-Vaša nie.
+VaÅ¡a nie.
 
 502
 00:26:37,000 --> 00:26:38,580
-Otec u nás u nebıva.
+Otec u nÃ¡s uÅ¾ nebÃ½va.
 
 503
 00:26:38,580 --> 00:26:40,880
-Ale je stále súèasou rodiny.
+Ale je stÃ¡le sÃºÄasÅ¥ou rodiny.
 
 504
 00:26:40,880 --> 00:26:42,460
@@ -2110,11 +2110,11 @@ To sa nezmenilo.
 
 505
 00:26:42,460 --> 00:26:44,120
-Dáva ti to zmysel?
+DÃ¡va ti to zmysel?
 
 506
 00:26:47,170 --> 00:26:48,880
-Take u nebudeš uteka?
+TakÅ¾e uÅ¾ nebudeÅ¡ utekaÅ¥?
 
 507
 00:26:48,880 --> 00:26:51,080
@@ -2122,15 +2122,15 @@ Nie.
 
 508
 00:26:51,080 --> 00:26:52,750
-Ale ešte nechcem ís domov.
+Ale eÅ¡te nechcem Ã­sÅ¥ domov.
 
 509
 00:26:57,000 --> 00:26:58,830
-To vyzerá ako batoh na útek z domu.
+To vyzerÃ¡ ako batoh na Ãºtek z domu.
 
 510
 00:26:58,830 --> 00:27:00,080
-Pozriem sa na to. No tak poï.
+Pozriem sa na to. No tak poÄ.
 
 511
 00:27:05,710 --> 00:27:08,460
@@ -2138,19 +2138,19 @@ Deka, kladivo,
 
 512
 00:27:08,460 --> 00:27:10,750
-celozrnné tyèinky a ...
+celozrnnÃ© tyÄinky a ...
 
 513
 00:27:10,750 --> 00:27:12,620
-krabièka malıch dinosaurov.
+krabiÄka malÃ½ch dinosaurov.
 
 514
 00:27:12,620 --> 00:27:13,880
-Dobrı vıber.
+DobrÃ½ vÃ½ber.
 
 515
 00:27:15,420 --> 00:27:16,920
-Ja si beriem celozrnnú tyèinku.
+Ja si beriem celozrnnÃº tyÄinku.
 
 516
 00:27:19,920 --> 00:27:21,830
@@ -2158,20 +2158,20 @@ A dinosaura.
 
 517
 00:27:21,830 --> 00:27:23,420
-Musíš zaplati mıto.
+MusÃ­Å¡ zaplatiÅ¥ mÃ½to.
 
 518
 00:27:23,420 --> 00:27:26,040
-Poïte sem. Poïte.
+PoÄte sem. PoÄte.
 
 519
 00:27:26,040 --> 00:27:28,750
-Skutoènou otázkou je,
-pizza alebo èína?
+SkutoÄnou otÃ¡zkou je,
+pizza alebo ÄÃ­na?
 
 520
 00:27:39,380 --> 00:27:42,620
-Áno. Vitajte v Gaunts Brook Inn.
+Ãno. Vitajte v Gaunts Brook Inn.
 
 521
 00:27:44,750 --> 00:27:46,920
@@ -2180,24 +2180,24 @@ Nie.
 522
 00:27:46,920 --> 00:27:49,210
 - Nie.
-- Áno.
+- Ãno.
 
 523
 00:27:49,210 --> 00:27:51,710
-Moje ob¾úbené spomienky
+Moje obÄ¾ÃºbenÃ© spomienky
 
 524
 00:27:51,710 --> 00:27:56,290
-pochádzajú odtia¾to, kadé leto
+pochÃ¡dzajÃº odtiaÄ¾to, kaÅ¾dÃ© leto
 sme chodili s otcom na ryby.
 
 525
 00:27:56,290 --> 00:28:00,290
-iadny internet, iadny mobilnı signál.
+Å½iadny internet, Å¾iadny mobilnÃ½ signÃ¡l.
 
 526
 00:28:00,290 --> 00:28:03,040
-Len vy a príroda.
+Len vy a prÃ­roda.
 
 527
 00:28:03,040 --> 00:28:05,830
@@ -2205,24 +2205,24 @@ Karty.
 
 528
 00:28:05,830 --> 00:28:08,040
-V tom som úasnı, take ...
+V tom som ÃºÅ¾asnÃ½, takÅ¾e ...
 
 529
 00:28:08,040 --> 00:28:09,960
-Ja nie som s tım v pohode.
+Ja nie som s tÃ½m v pohode.
 
 530
 00:28:09,960 --> 00:28:12,380
-Toto je nezákonné uväznenie.
+Toto je nezÃ¡konnÃ© uvÃ¤znenie.
 
 531
 00:28:12,380 --> 00:28:14,080
-Toto je udranie vás v bezpeèí.
+Toto je udrÅ¾anie vÃ¡s v bezpeÄÃ­.
 
 532
 00:28:14,080 --> 00:28:17,000
-Videl som, èo dokáu ¾udia,
-ktorí idú po vás.
+Videl som, Äo dokÃ¡Å¾u Ä¾udia,
+ktorÃ­ idÃº po vÃ¡s.
 
 533
 00:28:17,000 --> 00:28:19,460
@@ -2230,25 +2230,25 @@ Ja ti risknem.
 
 534
 00:28:19,460 --> 00:28:22,250
-Dobre, pozrite, chápem,
-e sa vám to tu nepáèi,
+Dobre, pozrite, chÃ¡pem,
+Å¾e sa vÃ¡m to tu nepÃ¡Äi,
 
 535
 00:28:22,250 --> 00:28:25,380
-ale s¾ubujem vám, e je to lepšie,
-ako iná alternatíva.
+ale sÄ¾ubujem vÃ¡m, Å¾e je to lepÅ¡ie,
+ako inÃ¡ alternatÃ­va.
 
 536
 00:28:25,380 --> 00:28:27,710
-Budem hneï ved¾a.
+Budem hneÄ vedÄ¾a.
 
 537
 00:28:27,710 --> 00:28:30,170
-Neotvárajte nikomu okrem mòa.
+NeotvÃ¡rajte nikomu okrem mÅˆa.
 
 538
 00:28:43,120 --> 00:28:45,670
-Èo sa tu stalo?
+ÄŒo sa tu stalo?
 
 539
 00:28:45,670 --> 00:28:47,500
@@ -2260,32 +2260,32 @@ Ahoj, April.
 
 541
 00:29:10,500 --> 00:29:11,880
-Poèuj, zavolám ti.
+PoÄuj, zavolÃ¡m ti.
 
 542
 00:29:11,880 --> 00:29:13,500
-V èom to do èerta ideš?
+V Äom to do Äerta ideÅ¡?
 
 543
 00:29:13,500 --> 00:29:15,380
-To je vynikajúca otázka.
+To je vynikajÃºca otÃ¡zka.
 
 544
 00:29:15,380 --> 00:29:17,420
-Mám otvorenı jeden súbor.
+MÃ¡m otvorenÃ½ jeden sÃºbor.
 
 545
 00:29:17,420 --> 00:29:19,460
 Je to video.
-Práve som ti to poslala.
+PrÃ¡ve som ti to poslala.
 
 546
 00:29:19,460 --> 00:29:22,210
-Benny... Nepáèi sa mi to.
+Benny... NepÃ¡Äi sa mi to.
 
 547
 00:29:22,210 --> 00:29:24,330
-Dobre, láska, ozvem sa ti, dobre?
+Dobre, lÃ¡ska, ozvem sa ti, dobre?
 
 548
 00:29:28,380 --> 00:29:30,120
@@ -2293,24 +2293,24 @@ Pozrime sa na to.
 
 549
 00:29:33,210 --> 00:29:36,420
-Všetko najlepšie k narodeninám!
-elaj si nieèo.
+VÅ¡etko najlepÅ¡ie k narodeninÃ¡m!
+Å½elaj si nieÄo.
 
 550
 00:29:41,040 --> 00:29:43,330
-Èo si si priala?
+ÄŒo si si priala?
 
 551
 00:29:43,330 --> 00:29:45,500
-Chcem odís.
+Chcem odÃ­sÅ¥.
 
 552
 00:29:45,500 --> 00:29:47,830
-O tom sme u hovorili.
+O tom sme uÅ¾ hovorili.
 
 553
 00:29:47,830 --> 00:29:49,120
-Vieš, e to nemôeš.
+VieÅ¡, Å¾e to nemÃ´Å¾eÅ¡.
 
 554
 00:29:49,120 --> 00:29:50,670
@@ -2318,11 +2318,11 @@ Ale ja to chcem.
 
 555
 00:29:52,250 --> 00:29:55,420
-Konèíme túto konverzáciu
+KonÄÃ­me tÃºto konverzÃ¡ciu
 
 556
 00:29:55,420 --> 00:29:57,830
-a porozprávame sa o nieèom novom.
+a porozprÃ¡vame sa o nieÄom novom.
 
 557
 00:29:57,830 --> 00:29:59,330
@@ -2330,27 +2330,27 @@ Nie.
 
 558
 00:29:59,330 --> 00:30:00,750
-Chcem odís.
+Chcem odÃ­sÅ¥.
 
 559
 00:30:00,750 --> 00:30:03,170
-Môete nám to zresetova, prosím?
+MÃ´Å¾ete nÃ¡m to zresetovaÅ¥, prosÃ­m?
 
 560
 00:30:03,170 --> 00:30:05,000
-Spä na zaèiatok. Všetci von.
+SpÃ¤Å¥ na zaÄiatok. VÅ¡etci von.
 
 561
 00:30:05,000 --> 00:30:07,250
-U sa mi tu nepáèi.
+UÅ¾ sa mi tu nepÃ¡Äi.
 
 562
 00:30:07,250 --> 00:30:09,210
-A rada by som odišla.
+A rada by som odiÅ¡la.
 
 563
 00:30:09,210 --> 00:30:11,420
-Nie! Prestaò!
+Nie! PrestaÅˆ!
 
 564
 00:30:24,210 --> 00:30:26,790
@@ -2358,40 +2358,40 @@ Jo... ja ...
 
 565
 00:31:19,040 --> 00:31:22,080
-Je to skutoène diabolské.
+Je to skutoÄne diabolskÃ©.
 
 566
 00:31:22,080 --> 00:31:24,040
-Urobi z toho diea.
+UrobiÅ¥ z toho dieÅ¥a.
 
 567
 00:31:24,040 --> 00:31:26,000
-Nechcem o tom s vami hovori.
+Nechcem o tom s vami hovoriÅ¥.
 
 568
 00:31:27,500 --> 00:31:29,830
-Zahalené nevinnosou.
+ZahalenÃ© nevinnosÅ¥ou.
 
 569
 00:31:29,830 --> 00:31:31,710
-Tá sladká, rozkošná tvárièka.
+TÃ¡ sladkÃ¡, rozkoÅ¡nÃ¡ tvÃ¡riÄka.
 
 570
 00:31:31,710 --> 00:31:35,250
-Chcete ju iba ... chráni.
+Chcete ju iba ... chrÃ¡niÅ¥.
 
 571
 00:31:35,250 --> 00:31:36,500
-Dra ju v bezpeèí.
+DrÅ¾aÅ¥ ju v bezpeÄÃ­.
 
 572
 00:31:38,750 --> 00:31:40,750
-Chápem, preèo si myslíte,
-e je skutoèná.
+ChÃ¡pem, preÄo si myslÃ­te,
+Å¾e je skutoÄnÃ¡.
 
 573
 00:31:40,750 --> 00:31:42,620
-Èo vlastne znamená "skutoèná"?
+ÄŒo vlastne znamenÃ¡ "skutoÄnÃ¡"?
 
 574
 00:31:43,670 --> 00:31:45,670
@@ -2403,15 +2403,15 @@ Nerobte si to.
 
 576
 00:31:57,120 --> 00:31:59,880
-Èoko¾vek kedy povedala,
+ÄŒokoÄ¾vek kedy povedala,
 
 577
 00:31:59,880 --> 00:32:04,500
-emóciu,. ktorú kedy vyjadrila ...
+emÃ³ciu,. ktorÃº kedy vyjadrila ...
 
 578
 00:32:04,500 --> 00:32:06,460
-nie je to niè.
+nie je to niÄ.
 
 579
 00:32:06,460 --> 00:32:08,790
@@ -2419,23 +2419,23 @@ Je to program.
 
 580
 00:32:08,790 --> 00:32:10,670
-A èo je horšie, je to nebezpeèné.
+A Äo je horÅ¡ie, je to nebezpeÄnÃ©.
 
 581
 00:32:10,670 --> 00:32:12,420
-Videli ste, èo urobila tım ¾uïom.
+Videli ste, Äo urobila tÃ½m Ä¾uÄom.
 
 582
 00:32:12,420 --> 00:32:14,290
-Robí to, keï sa chráni,
+RobÃ­ to, keÄ sa chrÃ¡ni,
 
 583
 00:32:14,290 --> 00:32:15,750
-keï je vydesená.
+keÄ je vydesenÃ¡.
 
 584
 00:32:15,750 --> 00:32:17,290
-Poèúvajte sa.
+PoÄÃºvajte sa.
 
 585
 00:32:17,290 --> 00:32:19,880
@@ -2443,59 +2443,59 @@ Ona je stroj.
 
 586
 00:32:19,880 --> 00:32:23,540
-Nádhernı, úasnı, manipulatívny stroj,
+NÃ¡dhernÃ½, ÃºÅ¾asnÃ½, manipulatÃ­vny stroj,
 
 587
 00:32:23,540 --> 00:32:25,670
-ktorı dokáe simulova èloveka,
-ale vôbec to nie je èlovek.
+ktorÃ½ dokÃ¡Å¾e simulovaÅ¥ Äloveka,
+ale vÃ´bec to nie je Älovek.
 
 588
 00:32:25,670 --> 00:32:27,620
-- Bojím sa o vás.
+- BojÃ­m sa o vÃ¡s.
 - Nie.
 
 589
 00:32:27,620 --> 00:32:29,120
-Bojím sa aj o vašu rodinu.
+BojÃ­m sa aj o vaÅ¡u rodinu.
 
 590
 00:32:29,120 --> 00:32:31,420
-Stále potrebujem odpovede.
-Musím hovori s Kindredom.
+StÃ¡le potrebujem odpovede.
+MusÃ­m hovoriÅ¥ s Kindredom.
 
 591
 00:32:31,420 --> 00:32:32,520
-Ale preèo?
+Ale preÄo?
 
 592
 00:32:32,620 --> 00:32:34,420
-Preèo je pre vás také aké
-pripusti, èo to je?
+PreÄo je pre vÃ¡s takÃ© Å¥aÅ¾kÃ©
+pripustiÅ¥, Äo to je?
 
 593
 00:32:34,420 --> 00:32:35,750
-Pretoe keby bola naozaj malım dievèatkom ...
+PretoÅ¾e keby bola naozaj malÃ½m dievÄatkom ...
 
 594
 00:32:35,750 --> 00:32:38,080
-Ale nie je, e?
+Ale nie je, Å¾e?
 
 595
 00:32:38,080 --> 00:32:40,380
-Odpovede máte, Jo.
+Odpovede mÃ¡te, Jo.
 
 596
 00:32:40,380 --> 00:32:42,080
-Len im nechcete veri.
+Len im nechcete veriÅ¥.
 
 597
 00:32:43,830 --> 00:32:46,880
-Tak èi onak,
+Tak Äi onak,
 
 598
 00:32:46,880 --> 00:32:49,500
-musíte ju necha odís.
+musÃ­te ju nechaÅ¥ odÃ­sÅ¥.
 
 599
 00:32:54,330 --> 00:32:55,620
@@ -2503,32 +2503,32 @@ Ahoj!
 
 600
 00:32:59,380 --> 00:33:00,920
-Èo sa deje?
+ÄŒo sa deje?
 
 601
 00:33:00,920 --> 00:33:03,380
-Nemôem o tom teraz hovori.
+NemÃ´Å¾em o tom teraz hovoriÅ¥.
 
 602
 00:33:04,380 --> 00:33:05,620
-Dobre. Èo ...
+Dobre. ÄŒo ...
 
 603
 00:33:05,620 --> 00:33:07,000
-Nemôem. Prosím, u sa ma nepıtaj.
+NemÃ´Å¾em. ProsÃ­m, uÅ¾ sa ma nepÃ½taj.
 
 604
 00:33:09,120 --> 00:33:10,830
 - Dobre. Fajn.
-- Môem ... môem ís dnu?
+- MÃ´Å¾em ... mÃ´Å¾em Ã­sÅ¥ dnu?
 
 605
 00:33:10,830 --> 00:33:12,500
-Samozrejme. Prosím.
+Samozrejme. ProsÃ­m.
 
 606
 00:33:14,500 --> 00:33:17,000
-Trochu sa vytešujú pred zajtrajšou školou,
+Trochu sa vyteÅ¡ujÃº pred zajtrajÅ¡ou Å¡kolou,
 
 607
 00:33:17,000 --> 00:33:18,620
@@ -2537,7 +2537,7 @@ pozri sa na ne,
 
 608
 00:33:18,620 --> 00:33:20,080
-uívajú si najlepší ivot.
+uÅ¾Ã­vajÃº si najlepÅ¡Ã­ Å¾ivot.
 
 609
 00:33:20,080 --> 00:33:22,830
@@ -2546,30 +2546,30 @@ uívajú si najlepší ivot.
 
 610
 00:33:22,830 --> 00:33:25,500
-Take ...
+TakÅ¾e ...
 
 611
 00:33:25,500 --> 00:33:28,000
-tá sociálna pracovníèka
+tÃ¡ sociÃ¡lna pracovnÃ­Äka
 ju naozaj vydesila,
 
 612
 00:33:28,000 --> 00:33:31,460
-ale rozprávali sme sa o tom
-a ... u je v poriadku, jasné?
+ale rozprÃ¡vali sme sa o tom
+a ... uÅ¾ je v poriadku, jasnÃ©?
 
 613
 00:33:31,460 --> 00:33:33,170
-Všetko je v pohode.
+VÅ¡etko je v pohode.
 
 614
 00:33:35,710 --> 00:33:37,920
 Piper, potrebujem, aby si si vzala
-svoje veci a šla so mnou.
+svoje veci a Å¡la so mnou.
 
 615
 00:33:42,120 --> 00:33:43,960
-Mia, ty dnes veèer zostaneš s otcom.
+Mia, ty dnes veÄer zostaneÅ¡ s otcom.
 
 616
 00:33:43,960 --> 00:33:46,080
@@ -2577,49 +2577,49 @@ Ale to nie je jeho noc.
 
 617
 00:33:46,080 --> 00:33:47,170
-A zajtra mám volejbal
+A zajtra mÃ¡m volejbal
 
 618
 00:33:47,170 --> 00:33:48,170
-a dres mám doma.
+a dres mÃ¡m doma.
 
 619
 00:33:48,170 --> 00:33:49,580
-Môeš sa po neho zastavi ráno.
+MÃ´Å¾eÅ¡ sa po neho zastaviÅ¥ rÃ¡no.
 
 620
 00:33:49,580 --> 00:33:51,830
-To je šialené. Mohla by som ís
-teraz a ušetri všetkım cestu.
+To je Å¡ialenÃ©. Mohla by som Ã­sÅ¥
+teraz a uÅ¡etriÅ¥ vÅ¡etkÃ½m cestu.
 
 621
 00:33:51,830 --> 00:33:53,170
-Dnes veèer tu zostávaš.
+Dnes veÄer tu zostÃ¡vaÅ¡.
 
 622
 00:33:53,170 --> 00:33:54,040
-Preèo sa správaš tak èudne?
+PreÄo sa sprÃ¡vaÅ¡ tak Äudne?
 
 623
 00:33:56,170 --> 00:33:58,170
-Mia, poèula si svoju mamu.
+Mia, poÄula si svoju mamu.
 
 624
 00:33:58,170 --> 00:33:59,790
-Zostávaš tu. Bodka.
+ZostÃ¡vaÅ¡ tu. Bodka.
 
 625
 00:33:59,790 --> 00:34:01,170
-- Èo keby si si šla umy zuby?
+- ÄŒo keby si si Å¡la umyÅ¥ zuby?
 - V poriadku.
 
 626
 00:34:07,170 --> 00:34:08,960
-Dobre, Piper. Poïme na to.
+Dobre, Piper. PoÄme na to.
 
 627
 00:34:12,920 --> 00:34:14,750
-Ïakujem.
+Äakujem.
 
 628
 00:34:19,460 --> 00:34:21,710
@@ -2627,27 +2627,27 @@ Ideme domov?
 
 629
 00:34:23,880 --> 00:34:25,330
-Si pripútaná?
+Si pripÃºtanÃ¡?
 
 630
 00:34:25,330 --> 00:34:26,710
-Áno.
+Ãno.
 
 631
 00:34:28,500 --> 00:34:29,750
-Je všetko v poriadku?
+Je vÅ¡etko v poriadku?
 
 632
 00:34:32,080 --> 00:34:33,710
-Áno, všetko je v pohode.
+Ãno, vÅ¡etko je v pohode.
 
 633
 00:34:35,920 --> 00:34:38,290
-Preèo Mia s nami nejde?
+PreÄo Mia s nami nejde?
 
 634
 00:34:40,830 --> 00:34:43,120
-Pretoe sa chcem s tebou porozpráva.
+PretoÅ¾e sa chcem s tebou porozprÃ¡vaÅ¥.
 
 635
 00:34:44,580 --> 00:34:46,000
@@ -2655,7 +2655,7 @@ Jo?
 
 636
 00:34:47,790 --> 00:34:49,620
-Bojíš sa ma?
+BojÃ­Å¡ sa ma?
 
 637
 00:34:52,330 --> 00:34:55,120
@@ -2663,47 +2663,47 @@ Nie.
 
 638
 00:34:55,120 --> 00:34:57,080
-Nebojím sa a, Piper.
+NebojÃ­m sa Å¥a, Piper.
 
 639
 00:34:58,880 --> 00:35:00,710
-O èom si chcela hovori?
+O Äom si chcela hovoriÅ¥?
 
 640
 00:35:07,920 --> 00:35:10,000
-Spomenula si si u o sebe nieèo?
+Spomenula si si uÅ¾ o sebe nieÄo?
 
 641
 00:35:11,920 --> 00:35:14,380
-Nieèo spred tej noci, ako som a našla?
+NieÄo spred tej noci, ako som Å¥a naÅ¡la?
 
 642
 00:35:17,040 --> 00:35:20,790
-Obèas mávam tie ... malé sny.
+ObÄas mÃ¡vam tie ... malÃ© sny.
 
 643
 00:35:22,380 --> 00:35:24,290
-Ale nespím.
+Ale nespÃ­m.
 
 644
 00:35:25,920 --> 00:35:30,210
-Sú desivé. Nepáèia sa mi.
+SÃº desivÃ©. NepÃ¡Äia sa mi.
 
 645
 00:35:30,210 --> 00:35:31,710
-Preèo?
+PreÄo?
 
 646
 00:35:39,380 --> 00:35:43,460
-Chceš vedie... kto si?
+ChceÅ¡ vedieÅ¥... kto si?
 
 647
 00:35:46,620 --> 00:35:48,330
-Niekedy si myslím, e nie.
+Niekedy si myslÃ­m, Å¾e nie.
 
 648
 00:35:50,960 --> 00:35:52,710
-Ty to vieš?
+Ty to vieÅ¡?
 
 649
 00:35:56,500 --> 00:35:57,830
@@ -2715,48 +2715,48 @@ Piper!
 
 651
 00:36:03,420 --> 00:36:06,210
-Hej! Piper, stoj! Vrá sa.
+Hej! Piper, stoj! VrÃ¡Å¥ sa.
 
 652
 00:36:06,210 --> 00:36:08,210
-Èo to robíš?
+ÄŒo to robÃ­Å¡?
 
 653
 00:36:18,540 --> 00:36:20,250
-No tak, choï.
+No tak, choÄ.
 
 654
 00:36:20,250 --> 00:36:21,880
-Choï preè.
+ChoÄ preÄ.
 
 655
 00:36:24,120 --> 00:36:25,920
-Prepáè.
+PrepÃ¡Ä.
 
 656
 00:36:25,920 --> 00:36:27,670
-Vrátim sa do auta.
+VrÃ¡tim sa do auta.
 
 657
 00:36:53,750 --> 00:36:56,170
-Èo to, do èerta?
+ÄŒo to, do Äerta?
 
 658
 00:36:56,170 --> 00:36:58,170
-Nie, poèkajte! Poèkajte!
+Nie, poÄkajte! PoÄkajte!
 
 659
 00:37:01,880 --> 00:37:03,120
-Máte nejaké elanie smrti, alebo èo?
+MÃ¡te nejakÃ© Å¾elanie smrti, alebo Äo?
 
 660
 00:37:03,120 --> 00:37:04,960
-Èo je to s vami?
-Èo ste to urobili?
+ÄŒo je to s vami?
+ÄŒo ste to urobili?
 
 661
 00:37:04,960 --> 00:37:06,290
-Niè.
+NiÄ.
 
 662
 00:37:06,290 --> 00:37:07,540
@@ -2764,7 +2764,7 @@ Nepripojilo sa to.
 
 663
 00:37:07,540 --> 00:37:10,170
-Prepáète. Potrebovala som len nieèo urobi.
+PrepÃ¡Äte. Potrebovala som len nieÄo urobiÅ¥.
 
 664
 00:37:10,170 --> 00:37:11,580
@@ -2772,16 +2772,16 @@ Potrebujete pomoc.
 
 665
 00:37:11,580 --> 00:37:13,380
-Dobre, toto nie je ivot pre vás.
+Dobre, toto nie je Å¾ivot pre vÃ¡s.
 
 666
 00:37:15,290 --> 00:37:17,830
-Vyzeráte, e ste mali pekné detstvo.
+VyzerÃ¡te, Å¾e ste mali peknÃ© detstvo.
 
 667
 00:37:17,830 --> 00:37:19,960
-Dokáete to poveda pod¾a toho,
-ako vyzerám?
+DokÃ¡Å¾ete to povedaÅ¥ podÄ¾a toho,
+ako vyzerÃ¡m?
 
 668
 00:37:19,960 --> 00:37:21,170
@@ -2789,36 +2789,36 @@ Super.
 
 669
 00:37:21,170 --> 00:37:23,290
-Neviem. Mám len takı pocit.
+Neviem. MÃ¡m len takÃ½ pocit.
 
 670
 00:37:23,290 --> 00:37:25,580
-¼udia vás majú radi.
+Ä½udia vÃ¡s majÃº radi.
 
 671
 00:37:25,580 --> 00:37:26,920
-Jasné.
+JasnÃ©.
 
 672
 00:37:26,920 --> 00:37:29,790
-¼udia ma majú radi.
+Ä½udia ma majÃº radi.
 
 673
 00:37:29,790 --> 00:37:33,290
-Viete, niekedy ¾udia ako vy
+Viete, niekedy Ä¾udia ako vy
 
 674
 00:37:33,290 --> 00:37:35,500
-proste nechápu ¾udí, ako som ja.
+proste nechÃ¡pu Ä¾udÃ­, ako som ja.
 
 675
 00:37:38,830 --> 00:37:43,980
-Práca v Augur bola jediná
-stabilná vec, akú som kedy mala.
+PrÃ¡ca v Augur bola jedinÃ¡
+stabilnÃ¡ vec, akÃº som kedy mala.
 
 676
 00:37:45,750 --> 00:37:47,580
-A teraz je to preè.
+A teraz je to preÄ.
 
 677
 00:37:49,420 --> 00:37:51,380
@@ -2826,76 +2826,76 @@ Hej ...
 
 678
 00:37:53,500 --> 00:37:55,380
-Je mi to ¾úto.
+Je mi to Ä¾Ãºto.
 
 679
 00:37:55,380 --> 00:38:01,120
-Poskytli mi kódy k najkrajším projektom.
+Poskytli mi kÃ³dy k najkrajÅ¡Ã­m projektom.
 
 680
 00:38:01,120 --> 00:38:04,120
-A našla som si tento rytmus.
+A naÅ¡la som si tento rytmus.
 
 681
 00:38:04,120 --> 00:38:09,960
-Tento stav, kde som u viac neexistovala.
+Tento stav, kde som uÅ¾ viac neexistovala.
 
 682
 00:38:09,960 --> 00:38:12,000
-Existoval iba ten kód
+Existoval iba ten kÃ³d
 
 683
 00:38:12,000 --> 00:38:13,750
-a ja som bola jeho súèasou.
+a ja som bola jeho sÃºÄasÅ¥ou.
 
 684
 00:38:16,330 --> 00:38:18,250
-Viete, o èom hovorím?
+Viete, o Äom hovorÃ­m?
 
 685
 00:38:18,250 --> 00:38:21,040
-Mám ...
+MÃ¡m ...
 
 686
 00:38:21,040 --> 00:38:23,540
-lego sadu Orthanskej vee z Pána prsteòov.
+lego sadu Orthanskej veÅ¾e z PÃ¡na prsteÅˆov.
 
 687
 00:38:23,540 --> 00:38:24,710
-2 tisíc kúskov.
+2 tisÃ­c kÃºskov.
 
 688
 00:38:24,710 --> 00:38:29,380
-Bol som len takı, sústredenı, viete?
+Bol som len takÃ½, sÃºstredenÃ½, viete?
 
 689
 00:38:29,380 --> 00:38:31,500
-Tie kúsky sa dávali samé dokopy.
+Tie kÃºsky sa dÃ¡vali samÃ© dokopy.
 
 690
 00:38:34,120 --> 00:38:36,790
-Teda, nemyslím, e to bolo
-nieèo spirituálne,
+Teda, nemyslÃ­m, Å¾e to bolo
+nieÄo spirituÃ¡lne,
 
 691
 00:38:36,790 --> 00:38:38,880
-ale trochu to bolo spirituálne.
+ale trochu to bolo spirituÃ¡lne.
 
 692
 00:38:38,880 --> 00:38:41,460
-Áno.
+Ãno.
 
 693
 00:38:41,460 --> 00:38:44,170
-To je presne to, o èom hovorím.
+To je presne to, o Äom hovorÃ­m.
 
 694
 00:38:44,170 --> 00:38:47,000
-Dobre. Jasné.
+Dobre. JasnÃ©.
 
 695
 00:38:47,000 --> 00:38:48,920
-Myslím, e vás dostanem z tejto miestnosti
+MyslÃ­m, Å¾e vÃ¡s dostanem z tejto miestnosti
 
 696
 00:38:48,920 --> 00:38:50,420
@@ -2907,8 +2907,8 @@ Tak sa obujte.
 
 698
 00:38:52,710 --> 00:38:55,210
-Vezmem vás tam, kde som
-chytil svojho prvého pstruha.
+Vezmem vÃ¡s tam, kde som
+chytil svojho prvÃ©ho pstruha.
 
 699
 00:38:55,210 --> 00:38:56,500
@@ -2916,105 +2916,105 @@ No tak. Vezmite si veci a ideme.
 
 700
 00:38:56,500 --> 00:38:59,170
-Áno!
+Ãno!
 
 701
 00:39:12,420 --> 00:39:14,380
-Vaša rodina je milá.
+VaÅ¡a rodina je milÃ¡.
 
 702
 00:39:14,380 --> 00:39:16,210
-Ve¾mi starostlivá oh¾adom Piper.
+VeÄ¾mi starostlivÃ¡ ohÄ¾adom Piper.
 
 703
 00:39:16,210 --> 00:39:17,920
-Vïaka.
+VÄaka.
 
 704
 00:39:17,920 --> 00:39:19,380
-U¾ahèuje jej to.
+UÄ¾ahÄuje jej to.
 
 705
 00:39:19,380 --> 00:39:22,330
-Ak si ju chcete naïalej osvoji,
+Ak si ju chcete naÄalej osvojiÅ¥,
 
 706
 00:39:22,330 --> 00:39:24,170
-nemyslím si, e je múdre hodi
-ju hneï spä do školy.
+nemyslÃ­m si, Å¾e je mÃºdre hodiÅ¥
+ju hneÄ spÃ¤Å¥ do Å¡koly.
 
 707
 00:39:24,170 --> 00:39:25,880
-Zvláš pri jej strate pamäti.
+ZvlÃ¡Å¡Å¥ pri jej strate pamÃ¤ti.
 
 708
 00:39:25,880 --> 00:39:27,960
-Odporúèala by som odloi to
-o pár mesiacov.
+OdporÃºÄala by som odloÅ¾iÅ¥ to
+o pÃ¡r mesiacov.
 
 709
 00:39:27,960 --> 00:39:29,960
-Dobre. Môeme to urobi tak.
+Dobre. MÃ´Å¾eme to urobiÅ¥ tak.
 
 710
 00:39:33,080 --> 00:39:35,960
-Naozaj do toho chcete ís,
-velite¾ka Evansová?
+Naozaj do toho chcete Ã­sÅ¥,
+veliteÄ¾ka EvansovÃ¡?
 
 711
 00:39:35,960 --> 00:39:37,620
-Áno.
+Ãno.
 
 712
 00:39:37,620 --> 00:39:39,000
-Urèite.
+UrÄite.
 
 713
 00:39:39,000 --> 00:39:40,420
-Je to nároèné.
+Je to nÃ¡roÄnÃ©.
 
 714
 00:39:40,420 --> 00:39:42,790
-Nie kadı by prijal
-takú zodpovednos.
+Nie kaÅ¾dÃ½ by prijal
+takÃº zodpovednosÅ¥.
 
 715
 00:39:42,790 --> 00:39:45,670
-A s vašou minulosou ...
+A s vaÅ¡ou minulosÅ¥ou ...
 
 716
 00:39:45,670 --> 00:39:47,330
-Mojou minulosou ...
+Mojou minulosÅ¥ou ...
 
 717
 00:39:47,330 --> 00:39:49,420
-máte na mysli s mojou mamou?
+mÃ¡te na mysli s mojou mamou?
 
 718
 00:39:49,420 --> 00:39:53,000
-Myslíte na to, ako to
-ovplyvòuje vaše rozhodnutie?
+MyslÃ­te na to, ako to
+ovplyvÅˆuje vaÅ¡e rozhodnutie?
 
 719
 00:39:53,000 --> 00:39:56,000
-Myslíte, èi sa chcem naozaj
-postara o Piper?
+MyslÃ­te, Äi sa chcem naozaj
+postaraÅ¥ o Piper?
 
 720
 00:39:56,000 --> 00:39:57,960
-Alebo sa snaím da sa iba dokopy
+Alebo sa snaÅ¾Ã­m daÅ¥ sa iba dokopy
 
 721
 00:39:57,960 --> 00:40:00,080
-a dokáza, e nie som ako moja matka?
+a dokÃ¡zaÅ¥, Å¾e nie som ako moja matka?
 
 722
 00:40:04,420 --> 00:40:08,000
-Jasné, vidím, e si to môete myslie.
+JasnÃ©, vidÃ­m, Å¾e si to mÃ´Å¾ete myslieÅ¥.
 
 723
 00:40:10,040 --> 00:40:13,620
-Asi som sa toho mono najprv trochu bála.
+Asi som sa toho moÅ¾no najprv trochu bÃ¡la.
 
 724
 00:40:13,620 --> 00:40:17,040
@@ -3026,29 +3026,29 @@ Neviem.
 
 726
 00:40:19,960 --> 00:40:21,880
-Asi sa u toho nebojím.
+Asi sa uÅ¾ toho nebojÃ­m.
 
 727
 00:41:19,670 --> 00:41:21,330
-Vezmi si to spä.
+Vezmi si to spÃ¤Å¥.
 
 728
 00:41:23,210 --> 00:41:25,330
-Ale ty si jediná, kto to dokáe prelomi.
+Ale ty si jedinÃ¡, kto to dokÃ¡Å¾e prelomiÅ¥.
 
 729
 00:41:25,330 --> 00:41:28,210
-Je to lichotivé,
-ale nie úplná pravda.
+Je to lichotivÃ©,
+ale nie ÃºplnÃ¡ pravda.
 
 730
 00:41:28,210 --> 00:41:29,620
-A u dávno som sa nauèila,
+A uÅ¾ dÃ¡vno som sa nauÄila,
 
 731
 00:41:29,620 --> 00:41:32,120
-ak máš z nejakej práce divnı pocit,
-vycúvaj z toho.
+ak mÃ¡Å¡ z nejakej prÃ¡ce divnÃ½ pocit,
+vycÃºvaj z toho.
 
 732
 00:41:34,170 --> 00:41:35,290
@@ -3056,32 +3056,32 @@ Dobre.
 
 733
 00:41:37,210 --> 00:41:38,790
-Potom sa nebudem háda.
+Potom sa nebudem hÃ¡daÅ¥.
 
 734
 00:41:38,790 --> 00:41:40,460
-Mal by si urobi to isté.
+Mal by si urobiÅ¥ to istÃ©.
 
 735
 00:41:40,460 --> 00:41:42,040
-- Vycúvaj z toho. Sprav to hneï.
-- Nemôem.
+- VycÃºvaj z toho. Sprav to hneÄ.
+- NemÃ´Å¾em.
 
 736
 00:41:42,040 --> 00:41:43,420
-- Preèo?
-- Tım sa netráp.
+- PreÄo?
+- TÃ½m sa netrÃ¡p.
 
 737
 00:41:43,420 --> 00:41:45,380
-Povedz mi to. Myslím, e si zaslúim
-skutoènú odpoveï.
+Povedz mi to. MyslÃ­m, Å¾e si zaslÃºÅ¾im
+skutoÄnÃº odpoveÄ.
 
 738
 00:41:48,000 --> 00:41:50,000
-Myslím, e by to mohlo zmeni svet.
+MyslÃ­m, Å¾e by to mohlo zmeniÅ¥ svet.
 
 739
 00:41:53,250 --> 00:41:55,500
-Ak niekto môe, tak si to ty.
+Ak niekto mÃ´Å¾e, tak si to ty.
 
